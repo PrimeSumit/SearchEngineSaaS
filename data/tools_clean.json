@@ -1,0 +1,4643 @@
+[
+  {
+    "id": 1,
+    "name": "Notion",
+    "description": "All-in-one workspace for notes, docs, and collaboration",
+    "tags": [
+      "productivity",
+      "notes",
+      "workspace"
+    ],
+    "category": "Productivity",
+    "pricing": "freemium",
+    "url": "https://notion.com"
+  },
+  {
+    "id": 2,
+    "name": "Zapier",
+    "description": "Automate workflows by connecting apps and services",
+    "tags": [
+      "automation",
+      "integration",
+      "workflow"
+    ],
+    "category": "Automation",
+    "pricing": "freemium",
+    "url": "https://zapier.com"
+  },
+  {
+    "id": 3,
+    "name": "Canva",
+    "description": "Design tool for creating graphics, presentations, and content",
+    "tags": [
+      "design",
+      "graphics",
+      "marketing"
+    ],
+    "category": "Design",
+    "pricing": "freemium",
+    "url": "https://canva.com"
+  },
+  {
+    "id": 4,
+    "name": "Slack",
+    "description": "Team communication platform with channels and messaging",
+    "tags": [
+      "communication",
+      "team",
+      "chat"
+    ],
+    "category": "Collaboration",
+    "pricing": "freemium",
+    "url": "https://slack.com"
+  },
+  {
+    "id": 5,
+    "name": "Trello",
+    "description": "Visual task management tool using boards and cards",
+    "tags": [
+      "project management",
+      "kanban",
+      "tasks"
+    ],
+    "category": "Productivity",
+    "pricing": "freemium",
+    "url": "https://trello.com"
+  },
+  {
+    "id": 6,
+    "name": "Figma",
+    "description": "Collaborative interface design and prototyping tool",
+    "tags": [
+      "design",
+      "ui",
+      "collaboration"
+    ],
+    "category": "Design",
+    "pricing": "freemium",
+    "url": "https://figma.com"
+  },
+  {
+    "id": 7,
+    "name": "Airtable",
+    "description": "Flexible database and spreadsheet hybrid for organizing data",
+    "tags": [
+      "database",
+      "spreadsheet",
+      "productivity"
+    ],
+    "category": "Productivity",
+    "pricing": "freemium",
+    "url": "https://airtable.com"
+  },
+  {
+    "id": 8,
+    "name": "HubSpot",
+    "description": "CRM platform for marketing, sales, and customer service",
+    "tags": [
+      "crm",
+      "marketing",
+      "sales"
+    ],
+    "category": "Marketing",
+    "pricing": "freemium",
+    "url": "https://hubspot.com"
+  },
+  {
+    "id": 9,
+    "name": "Mailchimp",
+    "description": "Email marketing platform for campaigns and automation",
+    "tags": [
+      "email",
+      "marketing",
+      "automation"
+    ],
+    "category": "Marketing",
+    "pricing": "freemium",
+    "url": "https://mailchimp.com"
+  },
+  {
+    "id": 10,
+    "name": "Stripe",
+    "description": "Online payment processing platform for businesses",
+    "tags": [
+      "payments",
+      "finance",
+      "api"
+    ],
+    "category": "Finance",
+    "pricing": "paid",
+    "url": "https://stripe.com"
+  },
+  {
+    "id": 11,
+    "name": "Shopify",
+    "description": "E-commerce platform for building online stores",
+    "tags": [
+      "ecommerce",
+      "store",
+      "business"
+    ],
+    "category": "E-commerce",
+    "pricing": "paid",
+    "url": "https://shopify.com"
+  },
+  {
+    "id": 12,
+    "name": "Webflow",
+    "description": "Website builder with visual design and CMS features",
+    "tags": [
+      "website",
+      "cms",
+      "design"
+    ],
+    "category": "Development",
+    "pricing": "freemium",
+    "url": "https://webflow.com"
+  },
+  {
+    "id": 13,
+    "name": "Vercel",
+    "description": "Frontend deployment platform for fast and scalable apps",
+    "tags": [
+      "deployment",
+      "hosting",
+      "frontend"
+    ],
+    "category": "Development",
+    "pricing": "freemium",
+    "url": "https://vercel.com"
+  },
+  {
+    "id": 14,
+    "name": "Netlify",
+    "description": "Platform for deploying and hosting web applications",
+    "tags": [
+      "hosting",
+      "deployment",
+      "web"
+    ],
+    "category": "Development",
+    "pricing": "freemium",
+    "url": "https://netlify.com"
+  },
+  {
+    "id": 15,
+    "name": "Supabase",
+    "description": "Open source backend platform with database and auth",
+    "tags": [
+      "backend",
+      "database",
+      "auth"
+    ],
+    "category": "Development",
+    "pricing": "freemium",
+    "url": "https://supabase.com"
+  },
+  {
+    "id": 16,
+    "name": "Apache APISIX",
+    "description": "Cloud Native API Gateway under the Apache Software Foundation",
+    "tags": [
+      "api",
+      "gateway",
+      "cloud"
+    ],
+    "category": "API Gateway",
+    "pricing": "free",
+    "url": "https://apisix.apache.org"
+  },
+  {
+    "id": 17,
+    "name": "Firecamp",
+    "description": "DX first open-source API devtool",
+    "tags": [
+      "api",
+      "devtool",
+      "testing"
+    ],
+    "category": "API Platform",
+    "pricing": "free",
+    "url": "https://firecamp.io"
+  },
+  {
+    "id": 18,
+    "name": "Hoppscotch",
+    "description": "API development ecosystem",
+    "tags": [
+      "api",
+      "testing",
+      "development"
+    ],
+    "category": "API Platform",
+    "pricing": "free",
+    "url": "https://hoppscotch.io"
+  },
+  {
+    "id": 19,
+    "name": "Keycloak",
+    "description": "User authentication and session management framework",
+    "tags": [
+      "auth",
+      "sso",
+      "identity"
+    ],
+    "category": "Auth & SSO",
+    "pricing": "free",
+    "url": "https://keycloak.org"
+  },
+  {
+    "id": 20,
+    "name": "Appwrite",
+    "description": "Backend server with REST APIs to manage core backend needs",
+    "tags": [
+      "backend",
+      "baas",
+      "api"
+    ],
+    "category": "Backend as a service",
+    "pricing": "free",
+    "url": "https://appwrite.io"
+  },
+  {
+    "id": 21,
+    "name": "PocketBase",
+    "description": "Backend server with REST APIs to manage core backend needs",
+    "tags": [
+      "backend",
+      "database",
+      "api"
+    ],
+    "category": "Backend as a service",
+    "pricing": "free",
+    "url": "https://pocketbase.io"
+  },
+  {
+    "id": 22,
+    "name": "Metabase",
+    "description": "Business intelligence software",
+    "tags": [
+      "bi",
+      "analytics",
+      "data"
+    ],
+    "category": "Business Intelligence",
+    "pricing": "freemium",
+    "url": "https://metabase.com"
+  },
+  {
+    "id": 23,
+    "name": "Ghost",
+    "description": "Headless Node.js publishing platform",
+    "tags": [
+      "cms",
+      "publishing",
+      "blog"
+    ],
+    "category": "CMS",
+    "pricing": "freemium",
+    "url": "https://ghost.org"
+  },
+  {
+    "id": 24,
+    "name": "Strapi",
+    "description": "Node.js Headless CMS to build customisable APIs",
+    "tags": [
+      "cms",
+      "headless",
+      "api"
+    ],
+    "category": "CMS",
+    "pricing": "freemium",
+    "url": "https://strapi.io"
+  },
+  {
+    "id": 25,
+    "name": "Minio",
+    "description": "S3 compatible object storage",
+    "tags": [
+      "storage",
+      "s3",
+      "cloud"
+    ],
+    "category": "Cloud Storage",
+    "pricing": "free",
+    "url": "https://min.io"
+  },
+  {
+    "id": 26,
+    "name": "Jitsu",
+    "description": "Fully-scriptable data ingestion engine for modern data teams",
+    "tags": [
+      "data",
+      "ingestion",
+      "cdp"
+    ],
+    "category": "Customer Data Platform",
+    "pricing": "free",
+    "url": "https://jitsu.com"
+  },
+  {
+    "id": 27,
+    "name": "Chatwoot",
+    "description": "Live chat widget",
+    "tags": [
+      "chat",
+      "support",
+      "customer"
+    ],
+    "category": "Customer Engagement",
+    "pricing": "freemium",
+    "url": "https://chatwoot.com"
+  },
+  {
+    "id": 28,
+    "name": "CrowdSec",
+    "description": "Collaborative IPS able to analyze visitor behavior",
+    "tags": [
+      "security",
+      "ips",
+      "cybersecurity"
+    ],
+    "category": "Cybersecurity",
+    "pricing": "free",
+    "url": "https://crowdsec.net"
+  },
+  {
+    "id": 29,
+    "name": "Penpot",
+    "description": "Design & prototyping platform",
+    "tags": [
+      "design",
+      "ui",
+      "prototyping"
+    ],
+    "category": "Design",
+    "pricing": "free",
+    "url": "https://penpot.app"
+  },
+  {
+    "id": 30,
+    "name": "Medusa",
+    "description": "Headless e-commerce platform",
+    "tags": [
+      "ecommerce",
+      "headless",
+      "store"
+    ],
+    "category": "E-commerce",
+    "pricing": "free",
+    "url": "https://medusajs.com"
+  },
+  {
+    "id": 31,
+    "name": "Airbyte",
+    "description": "Data integration platform",
+    "tags": [
+      "etl",
+      "data",
+      "integration"
+    ],
+    "category": "ELT / ETL",
+    "pricing": "freemium",
+    "url": "https://airbyte.com"
+  },
+  {
+    "id": 32,
+    "name": "Meilisearch",
+    "description": "Typo tolerant search engine",
+    "tags": [
+      "search",
+      "engine",
+      "typo"
+    ],
+    "category": "Enterprise Search",
+    "pricing": "free",
+    "url": "https://meilisearch.com"
+  },
+  {
+    "id": 33,
+    "name": "Qdrant",
+    "description": "Vector similarity search engine with extended filtering support",
+    "tags": [
+      "search",
+      "vector",
+      "ai"
+    ],
+    "category": "Enterprise Search",
+    "pricing": "free",
+    "url": "https://qdrant.tech"
+  },
+  {
+    "id": 34,
+    "name": "TypeSense",
+    "description": "Typo tolerant fuzzy search engine",
+    "tags": [
+      "search",
+      "fuzzy",
+      "engine"
+    ],
+    "category": "Enterprise Search",
+    "pricing": "free",
+    "url": "https://typesense.org"
+  },
+  {
+    "id": 35,
+    "name": "Unleash",
+    "description": "Feature flags platform",
+    "tags": [
+      "feature-flags",
+      "development",
+      "toggle"
+    ],
+    "category": "Feature flag",
+    "pricing": "freemium",
+    "url": "https://getunleash.io"
+  },
+  {
+    "id": 36,
+    "name": "Nextcloud",
+    "description": "A personal cloud which runs on your own server",
+    "tags": [
+      "cloud",
+      "storage",
+      "hosting"
+    ],
+    "category": "File Hosting",
+    "pricing": "free",
+    "url": "https://nextcloud.com"
+  },
+  {
+    "id": 37,
+    "name": "Formbricks",
+    "description": "Build forms and receive & manage submission data in one platform",
+    "tags": [
+      "forms",
+      "survey",
+      "data"
+    ],
+    "category": "Form Building",
+    "pricing": "free",
+    "url": "https://formbricks.com"
+  },
+  {
+    "id": 38,
+    "name": "AppSmith",
+    "description": "Low-code platform for internal tools",
+    "tags": [
+      "low-code",
+      "internal-tools",
+      "development"
+    ],
+    "category": "Internal Tools",
+    "pricing": "free",
+    "url": "https://appsmith.com"
+  },
+  {
+    "id": 39,
+    "name": "Mattermost",
+    "description": "Enterprise communication platform for developers",
+    "tags": [
+      "communication",
+      "chat",
+      "team"
+    ],
+    "category": "Messaging",
+    "pricing": "freemium",
+    "url": "https://mattermost.com"
+  },
+  {
+    "id": 40,
+    "name": "Baserow",
+    "description": "No-code database and Airtable alternative",
+    "tags": [
+      "database",
+      "no-code",
+      "spreadsheet"
+    ],
+    "category": "No-code database",
+    "pricing": "free",
+    "url": "https://baserow.io"
+  },
+  {
+    "id": 41,
+    "name": "NocoDB",
+    "description": "No-code database and Airtable alternative",
+    "tags": [
+      "database",
+      "no-code",
+      "spreadsheet"
+    ],
+    "category": "No-code database",
+    "pricing": "free",
+    "url": "https://nocodb.com"
+  },
+  {
+    "id": 42,
+    "name": "Logseq",
+    "description": "Knowledge base manager",
+    "tags": [
+      "notes",
+      "knowledge",
+      "roam"
+    ],
+    "category": "Notetaking",
+    "pricing": "free",
+    "url": "https://logseq.com"
+  },
+  {
+    "id": 43,
+    "name": "Grafana",
+    "description": "Observability and data visualization platform",
+    "tags": [
+      "observability",
+      "metrics",
+      "dashboard"
+    ],
+    "category": "Observability and monitoring",
+    "pricing": "freemium",
+    "url": "https://grafana.com"
+  },
+  {
+    "id": 44,
+    "name": "BitWarden",
+    "description": "Password manager for teams and individuals",
+    "tags": [
+      "password",
+      "security",
+      "manager"
+    ],
+    "category": "Password manager",
+    "pricing": "freemium",
+    "url": "https://bitwarden.com"
+  },
+  {
+    "id": 45,
+    "name": "PostHog",
+    "description": "Product analytics platform",
+    "tags": [
+      "analytics",
+      "product",
+      "tracking"
+    ],
+    "category": "Product Analytics",
+    "pricing": "freemium",
+    "url": "https://posthog.com"
+  },
+  {
+    "id": 46,
+    "name": "Cal.com",
+    "description": "Scheduling infrastructure, alternative to Calendly",
+    "tags": [
+      "scheduling",
+      "calendar",
+      "meetings"
+    ],
+    "category": "Scheduling",
+    "pricing": "freemium",
+    "url": "https://cal.com"
+  },
+  {
+    "id": 47,
+    "name": "Plausible",
+    "description": "Google Analytics alternative",
+    "tags": [
+      "analytics",
+      "website",
+      "tracking"
+    ],
+    "category": "Website analytics",
+    "pricing": "paid",
+    "url": "https://plausible.io"
+  },
+  {
+    "id": 48,
+    "name": "N8N",
+    "description": "Node-based workflow automation tool for developers",
+    "tags": [
+      "automation",
+      "workflow",
+      "integration"
+    ],
+    "category": "Workflow automation",
+    "pricing": "freemium",
+    "url": "https://n8n.io"
+  },
+  {
+    "id": 49,
+    "name": "Stream",
+    "description": "Don't re-invent the wheel feed; grow without worrying about the scalability of your feeds.",
+    "tags": [
+      "feeds",
+      "api",
+      "infrastructure"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "freemium",
+    "url": "https://getstream.io"
+  },
+  {
+    "id": 50,
+    "name": "Algolia",
+    "description": "A hosted Search API that delivers instant and relevant results from the first keystroke.",
+    "tags": [
+      "search",
+      "api",
+      "hosted"
+    ],
+    "category": "Search",
+    "pricing": "freemium",
+    "url": "https://algolia.com"
+  },
+  {
+    "id": 51,
+    "name": "Pusher",
+    "description": "Everything you need to build scalable realtime apps.",
+    "tags": [
+      "realtime",
+      "websockets",
+      "api"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "freemium",
+    "url": "https://pusher.com"
+  },
+  {
+    "id": 52,
+    "name": "Postman",
+    "description": "A powerful GUI platform to make your API development faster & easier.",
+    "tags": [
+      "api",
+      "testing",
+      "development"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "freemium",
+    "url": "https://postman.com"
+  },
+  {
+    "id": 53,
+    "name": "SendBird",
+    "description": "Messaging SDK & chat API for mobile apps and websites.",
+    "tags": [
+      "chat",
+      "messaging",
+      "sdk"
+    ],
+    "category": "SMS & Messaging",
+    "pricing": "paid",
+    "url": "https://sendbird.com"
+  },
+  {
+    "id": 54,
+    "name": "Auth0",
+    "description": "Add authentication to your web and mobile apps in under 10 minutes.",
+    "tags": [
+      "authentication",
+      "security",
+      "identity"
+    ],
+    "category": "Authentication",
+    "pricing": "freemium",
+    "url": "https://auth0.com"
+  },
+  {
+    "id": 55,
+    "name": "Digits",
+    "description": "Grow and verify users around the world with simple phone number authentication.",
+    "tags": [
+      "authentication",
+      "sms",
+      "verification"
+    ],
+    "category": "Authentication",
+    "pricing": "free",
+    "url": "https://digits.com"
+  },
+  {
+    "id": 56,
+    "name": "Crashlytics",
+    "description": "A powerful and lightweight crash reporting system for your apps.",
+    "tags": [
+      "monitoring",
+      "crash-reporting",
+      "analytics"
+    ],
+    "category": "Data, Analytics & Monitoring",
+    "pricing": "free",
+    "url": "https://crashlytics.com"
+  },
+  {
+    "id": 57,
+    "name": "MessageBird",
+    "description": "A messaging API packed with features that enable high volume message senders.",
+    "tags": [
+      "sms",
+      "messaging",
+      "api"
+    ],
+    "category": "SMS & Messaging",
+    "pricing": "paid",
+    "url": "https://messagebird.com"
+  },
+  {
+    "id": 58,
+    "name": "KeenIO",
+    "description": "Developer-friendly APIs to easily collect, explore, and visualize data anywhere.",
+    "tags": [
+      "analytics",
+      "data",
+      "visualization"
+    ],
+    "category": "Data, Analytics & Monitoring",
+    "pricing": "paid",
+    "url": "https://keen.io"
+  },
+  {
+    "id": 59,
+    "name": "Calendarific",
+    "description": "Enterprise-grade Public holiday API service for over 200 countries.",
+    "tags": [
+      "api",
+      "calendar",
+      "holidays"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "freemium",
+    "url": "https://calendarific.com"
+  },
+  {
+    "id": 60,
+    "name": "Dataflow kit",
+    "description": "Web scraping open source framework written in Go to extract data from web pages.",
+    "tags": [
+      "scraping",
+      "data",
+      "extraction"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "freemium",
+    "url": "https://dataflowkit.com"
+  },
+  {
+    "id": 61,
+    "name": "Crawlbase",
+    "description": "Bypass captchas and blocks, and crawl javascript pages with a simple to use API service.",
+    "tags": [
+      "scraping",
+      "api",
+      "crawling"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "paid",
+    "url": "https://crawlbase.com"
+  },
+  {
+    "id": 62,
+    "name": "Hook0",
+    "description": "Open-Source Webhooks-as-a-service (WaaS) that makes it easy for developers to send webhooks.",
+    "tags": [
+      "webhooks",
+      "api",
+      "infrastructure"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "free",
+    "url": "https://hook0.com"
+  },
+  {
+    "id": 63,
+    "name": "Scraper API",
+    "description": "Handles proxies, browsers, and CAPTCHAs for you, so you can scrape any web page.",
+    "tags": [
+      "scraping",
+      "proxies",
+      "api"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "paid",
+    "url": "https://scraperapi.com"
+  },
+  {
+    "id": 64,
+    "name": "Plaid",
+    "description": "Develop the future of financial services. Enables applications to connect with users’ bank accounts.",
+    "tags": [
+      "finance",
+      "banking",
+      "api"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "paid",
+    "url": "https://plaid.com"
+  },
+  {
+    "id": 65,
+    "name": "GitHub",
+    "description": "How people build software. Millions of developers use GitHub to build personal projects.",
+    "tags": [
+      "git",
+      "version-control",
+      "collaboration"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "freemium",
+    "url": "https://github.com"
+  },
+  {
+    "id": 66,
+    "name": "GitLab",
+    "description": "Tools for modern developers. Unifies issues, code review, CI and CD into a single UI.",
+    "tags": [
+      "git",
+      "ci-cd",
+      "devops"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "freemium",
+    "url": "https://gitlab.com"
+  },
+  {
+    "id": 67,
+    "name": "DeveloperHub.io",
+    "description": "Managed service to create beautiful powerful developer hubs and API documentation.",
+    "tags": [
+      "documentation",
+      "api",
+      "developer-portal"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "paid",
+    "url": "https://developerhub.io"
+  },
+  {
+    "id": 68,
+    "name": "SearchApi",
+    "description": "Robust real-time SERP API delivering structured data from Google and other search engine results pages.",
+    "tags": [
+      "serp",
+      "search",
+      "api"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "paid",
+    "url": "https://searchapi.io"
+  },
+  {
+    "id": 69,
+    "name": "SerpApi",
+    "description": "API to scrape and extract search engine results including knowledge graph, reviews, and maps.",
+    "tags": [
+      "serp",
+      "scraping",
+      "api"
+    ],
+    "category": "Infrastructure & APIs",
+    "pricing": "paid",
+    "url": "https://serpapi.com"
+  },
+  {
+    "id": 70,
+    "name": "SalesforceIQ",
+    "description": "An out-of-the-box sales app that gets your team up and running in minutes.",
+    "tags": [
+      "crm",
+      "sales",
+      "management"
+    ],
+    "category": "Sales",
+    "pricing": "paid",
+    "url": "https://salesforce.com"
+  },
+  {
+    "id": 71,
+    "name": "RealtimeCRM",
+    "description": "Manage your contacts, enrich your leads and track your opportunities through a sales pipeline.",
+    "tags": [
+      "crm",
+      "sales",
+      "pipeline"
+    ],
+    "category": "Sales",
+    "pricing": "paid",
+    "url": "https://realtimecrm.co.uk"
+  },
+  {
+    "id": 72,
+    "name": "AppSignal",
+    "description": "Catch errors, track performance, monitor hosts, detect anomalies — all in one tool.",
+    "tags": [
+      "monitoring",
+      "performance",
+      "errors"
+    ],
+    "category": "Data, Analytics & Monitoring",
+    "pricing": "paid",
+    "url": "https://appsignal.com"
+  },
+  {
+    "id": 73,
+    "name": "Sentry",
+    "description": "Real-time error tracking gives you insight into production deployments to fix crashes.",
+    "tags": [
+      "error-tracking",
+      "monitoring",
+      "debugging"
+    ],
+    "category": "Data, Analytics & Monitoring",
+    "pricing": "freemium",
+    "url": "https://sentry.io"
+  },
+  {
+    "id": 74,
+    "name": "Datadog",
+    "description": "Real-time performance monitoring from application-level to your actual hosts and VMs.",
+    "tags": [
+      "monitoring",
+      "infrastructure",
+      "metrics"
+    ],
+    "category": "Data, Analytics & Monitoring",
+    "pricing": "paid",
+    "url": "https://datadoghq.com"
+  },
+  {
+    "id": 75,
+    "name": "New Relic",
+    "description": "Monitor and optimize your entire technology stack — from infrastructure to browser apps.",
+    "tags": [
+      "apm",
+      "monitoring",
+      "observability"
+    ],
+    "category": "Data, Analytics & Monitoring",
+    "pricing": "freemium",
+    "url": "https://newrelic.com"
+  },
+  {
+    "id": 76,
+    "name": "Healthchecks.io",
+    "description": "Cron job monitoring. Get alerted when your cron jobs don't run on time.",
+    "tags": [
+      "cron",
+      "monitoring",
+      "alerts"
+    ],
+    "category": "Data, Analytics & Monitoring",
+    "pricing": "freemium",
+    "url": "https://healthchecks.io"
+  },
+  {
+    "id": 77,
+    "name": "ImgIX",
+    "description": "Optimizes and delivers images fast to grab your users’ attention & increase sales.",
+    "tags": [
+      "images",
+      "cdn",
+      "optimization"
+    ],
+    "category": "Image Processing",
+    "pricing": "freemium",
+    "url": "https://imgix.com"
+  },
+  {
+    "id": 78,
+    "name": "Cloudinary",
+    "description": "The image back-end for web and mobile developers. An end-to-end solution.",
+    "tags": [
+      "images",
+      "media",
+      "api"
+    ],
+    "category": "Image Processing",
+    "pricing": "freemium",
+    "url": "https://cloudinary.com"
+  },
+  {
+    "id": 79,
+    "name": "ExtractTable",
+    "description": "API service to extract tabular data from images and PDFs.",
+    "tags": [
+      "ocr",
+      "data-extraction",
+      "api"
+    ],
+    "category": "Image Processing",
+    "pricing": "freemium",
+    "url": "https://extracttable.com"
+  },
+  {
+    "id": 80,
+    "name": "Image-Charts",
+    "description": "Automagically create and send emails, reports, PDFs and more with on-brand charts as images.",
+    "tags": [
+      "charts",
+      "images",
+      "api"
+    ],
+    "category": "Image Processing",
+    "pricing": "freemium",
+    "url": "https://image-charts.com"
+  },
+  {
+    "id": 81,
+    "name": "Taskade",
+    "description": "Cross-platform collaboration tool for teams to create checklists, notes, and outlines.",
+    "tags": [
+      "collaboration",
+      "tasks",
+      "notes"
+    ],
+    "category": "Productivity & Organization",
+    "pricing": "freemium",
+    "url": "https://taskade.com"
+  },
+  {
+    "id": 82,
+    "name": "Metatask",
+    "description": "Automates management of repeating business workflows, admin work, HR processes.",
+    "tags": [
+      "workflows",
+      "automation",
+      "management"
+    ],
+    "category": "Productivity & Organization",
+    "pricing": "paid",
+    "url": "https://metatask.io"
+  },
+  {
+    "id": 83,
+    "name": "Twilio",
+    "description": "Voice & Video, Messaging, and Authentication APIs for every application.",
+    "tags": [
+      "sms",
+      "voice",
+      "api"
+    ],
+    "category": "SMS & Messaging",
+    "pricing": "paid",
+    "url": "https://twilio.com"
+  },
+  {
+    "id": 84,
+    "name": "OneSignal",
+    "description": "High volume, cross platform push notification delivery.",
+    "tags": [
+      "notifications",
+      "push",
+      "messaging"
+    ],
+    "category": "SMS & Messaging",
+    "pricing": "freemium",
+    "url": "https://onesignal.com"
+  },
+  {
+    "id": 85,
+    "name": "Cloud-IAM",
+    "description": "Open-Source Keycloak Identity and Access Management as a Service.",
+    "tags": [
+      "iam",
+      "identity",
+      "security"
+    ],
+    "category": "Authentication",
+    "pricing": "paid",
+    "url": "https://cloud-iam.com"
+  },
+  {
+    "id": 86,
+    "name": "LoginRadius",
+    "description": "Managed User Authentication service with powerful User Management and rich analytics.",
+    "tags": [
+      "authentication",
+      "iam",
+      "security"
+    ],
+    "category": "Authentication",
+    "pricing": "freemium",
+    "url": "https://loginradius.com"
+  },
+  {
+    "id": 87,
+    "name": "Section.io",
+    "description": "Content Delivery Network built for agile teams for faster websites, security and scalability.",
+    "tags": [
+      "cdn",
+      "performance",
+      "infrastructure"
+    ],
+    "category": "Content Delivery Networks",
+    "pricing": "paid",
+    "url": "https://section.io"
+  },
+  {
+    "id": 88,
+    "name": "SendGrid",
+    "description": "Email delivery and transactional email service.",
+    "tags": [
+      "email",
+      "transactional",
+      "api"
+    ],
+    "category": "Outgoing Email Services",
+    "pricing": "freemium",
+    "url": "https://sendgrid.com"
+  },
+  {
+    "id": 89,
+    "name": "Mailgun",
+    "description": "The email service for developers. Powerful APIs to send, receive and track email.",
+    "tags": [
+      "email",
+      "api",
+      "transactional"
+    ],
+    "category": "Outgoing Email Services",
+    "pricing": "paid",
+    "url": "https://mailgun.com"
+  },
+  {
+    "id": 90,
+    "name": "Mandrill",
+    "description": "Transactional email API for sending data-driven emails and personalized messages.",
+    "tags": [
+      "email",
+      "transactional",
+      "api"
+    ],
+    "category": "Outgoing Email Services",
+    "pricing": "paid",
+    "url": "https://mandrill.com"
+  },
+  {
+    "id": 91,
+    "name": "Amazon Elasticsearch",
+    "description": "Fully managed, reliable, and scalable Elasticsearch service by AWS.",
+    "tags": [
+      "search",
+      "aws",
+      "database"
+    ],
+    "category": "Search",
+    "pricing": "paid",
+    "url": "https://aws.amazon.com/elasticsearch-service/"
+  },
+  {
+    "id": 92,
+    "name": "JustWorks",
+    "description": "Seamless payroll, benefits, and comprehensive compliance coverage all in one product.",
+    "tags": [
+      "payroll",
+      "hr",
+      "benefits"
+    ],
+    "category": "Payroll",
+    "pricing": "paid",
+    "url": "https://justworks.com"
+  },
+  {
+    "id": 93,
+    "name": "Gusto",
+    "description": "One intuitive place to manage payroll, benefits, and HR for your business.",
+    "tags": [
+      "payroll",
+      "hr",
+      "benefits"
+    ],
+    "category": "Payroll",
+    "pricing": "paid",
+    "url": "https://gusto.com"
+  },
+  {
+    "id": 94,
+    "name": "Recruiterbox",
+    "description": "Recruitment software that simplifies and optimizes your hiring process.",
+    "tags": [
+      "recruiting",
+      "hr",
+      "hiring"
+    ],
+    "category": "Recruiting",
+    "pricing": "paid",
+    "url": "https://recruiterbox.com"
+  },
+  {
+    "id": 95,
+    "name": "Mapbox",
+    "description": "Platform that powers location and lets you build beautiful map experiences in your app.",
+    "tags": [
+      "maps",
+      "location",
+      "api"
+    ],
+    "category": "Mapping",
+    "pricing": "freemium",
+    "url": "https://mapbox.com"
+  },
+  {
+    "id": 96,
+    "name": "Intercom",
+    "description": "Customer messaging products for sales, marketing, and support teams.",
+    "tags": [
+      "chat",
+      "support",
+      "crm"
+    ],
+    "category": "Chat & Support",
+    "pricing": "paid",
+    "url": "https://intercom.com"
+  },
+  {
+    "id": 97,
+    "name": "Buffer",
+    "description": "Shares your content at the best possible times throughout the day to maximize engagement.",
+    "tags": [
+      "social-media",
+      "marketing",
+      "scheduling"
+    ],
+    "category": "Social Media",
+    "pricing": "freemium",
+    "url": "https://buffer.com"
+  },
+  {
+    "id": 98,
+    "name": "Cloudflare",
+    "description": "Speeds up and protects millions of websites, APIs, and SaaS services connected to the Internet.",
+    "tags": [
+      "dns",
+      "security",
+      "cdn"
+    ],
+    "category": "DNS",
+    "pricing": "freemium",
+    "url": "https://cloudflare.com"
+  },
+  {
+    "id": 99,
+    "name": "ChatGPT",
+    "description": "Free-to-use AI system for conversational assistance and content generation",
+    "tags": [
+      "ai",
+      "chatbot",
+      "productivity"
+    ],
+    "category": "AI",
+    "pricing": "freemium",
+    "url": "https://chatgpt.com"
+  },
+  {
+    "id": 100,
+    "name": "Midjourney",
+    "description": "Collaborative AI tool to create fantastic characters and unique imagery from short text",
+    "tags": [
+      "ai",
+      "image-generation",
+      "design"
+    ],
+    "category": "AI",
+    "pricing": "paid",
+    "url": "https://midjourney.com"
+  },
+  {
+    "id": 101,
+    "name": "Perplexity",
+    "description": "AI-powered Swiss Army Knife for information discovery and research",
+    "tags": [
+      "ai",
+      "search",
+      "research"
+    ],
+    "category": "AI",
+    "pricing": "freemium",
+    "url": "https://perplexity.ai"
+  },
+  {
+    "id": 102,
+    "name": "Evernote",
+    "description": "A powerful tool to capture and arrange ideas, making life more orderly",
+    "tags": [
+      "notes",
+      "productivity",
+      "organization"
+    ],
+    "category": "Docs",
+    "pricing": "freemium",
+    "url": "https://evernote.com"
+  },
+  {
+    "id": 103,
+    "name": "Confluence",
+    "description": "Wiki software connecting people, content, and ideas all in one place",
+    "tags": [
+      "wiki",
+      "documentation",
+      "collaboration"
+    ],
+    "category": "Docs",
+    "pricing": "freemium",
+    "url": "https://atlassian.com/software/confluence"
+  },
+  {
+    "id": 104,
+    "name": "Zeplin",
+    "description": "Handoff designs and styleguides with accurate specs and assets automatically",
+    "tags": [
+      "design",
+      "handoff",
+      "development"
+    ],
+    "category": "Design",
+    "pricing": "freemium",
+    "url": "https://zeplin.io"
+  },
+  {
+    "id": 105,
+    "name": "Uizard",
+    "description": "Transform your hand-drawn wireframes into digital design files automatically",
+    "tags": [
+      "design",
+      "wireframing",
+      "ai"
+    ],
+    "category": "Design",
+    "pricing": "freemium",
+    "url": "https://uizard.io"
+  },
+  {
+    "id": 106,
+    "name": "Zoho",
+    "description": "Unique and powerful suite of software to run your entire business",
+    "tags": [
+      "crm",
+      "business",
+      "suite"
+    ],
+    "category": "CRM",
+    "pricing": "freemium",
+    "url": "https://zoho.com"
+  },
+  {
+    "id": 107,
+    "name": "Workday",
+    "description": "The finance, HR, and planning system for a changing world",
+    "tags": [
+      "hr",
+      "finance",
+      "management"
+    ],
+    "category": "HR",
+    "pricing": "paid",
+    "url": "https://workday.com"
+  },
+  {
+    "id": 108,
+    "name": "Zoom",
+    "description": "Modern enterprise video communications platform",
+    "tags": [
+      "video",
+      "conferencing",
+      "communication"
+    ],
+    "category": "Video Conference",
+    "pricing": "freemium",
+    "url": "https://zoom.us"
+  },
+  {
+    "id": 109,
+    "name": "Baremetrics",
+    "description": "Metrics, dunning, and engagement tools for SaaS & subscription businesses",
+    "tags": [
+      "analytics",
+      "metrics",
+      "finance"
+    ],
+    "category": "Data Analysis",
+    "pricing": "paid",
+    "url": "https://baremetrics.com"
+  },
+  {
+    "id": 110,
+    "name": "LaunchDarkly",
+    "description": "Platform for developers to ship with confidence using feature flags and analytics",
+    "tags": [
+      "feature-flags",
+      "development",
+      "devops"
+    ],
+    "category": "Feature Flags",
+    "pricing": "paid",
+    "url": "https://launchdarkly.com"
+  },
+  {
+    "id": 111,
+    "name": "Monday.com",
+    "description": "Work OS that lets you shape workflows the way that works for you",
+    "tags": [
+      "project-management",
+      "collaboration",
+      "workflow"
+    ],
+    "category": "Project & Team Management",
+    "pricing": "freemium",
+    "url": "https://monday.com"
+  },
+  {
+    "id": 112,
+    "name": "Asana",
+    "description": "Project management software ensuring teams don't lose track of work",
+    "tags": [
+      "project-management",
+      "tasks",
+      "collaboration"
+    ],
+    "category": "Project & Team Management",
+    "pricing": "freemium",
+    "url": "https://asana.com"
+  },
+  {
+    "id": 113,
+    "name": "Loggly",
+    "description": "Log analysis & monitoring platform hosted entirely in the cloud",
+    "tags": [
+      "logs",
+      "monitoring",
+      "analysis"
+    ],
+    "category": "Log Analysis",
+    "pricing": "paid",
+    "url": "https://loggly.com"
+  },
+  {
+    "id": 114,
+    "name": "Meetup",
+    "description": "Discover events for all the things you love and build local communities",
+    "tags": [
+      "events",
+      "community",
+      "networking"
+    ],
+    "category": "Information",
+    "pricing": "freemium",
+    "url": "https://meetup.com"
+  },
+  {
+    "id": 115,
+    "name": "Owler",
+    "description": "Hard-to-find company data and strategic news alerts for professionals",
+    "tags": [
+      "data",
+      "news",
+      "business"
+    ],
+    "category": "Information",
+    "pricing": "freemium",
+    "url": "https://owler.com"
+  },
+  {
+    "id": 116,
+    "name": "Disqus",
+    "description": "Add-on tools for websites to increase engagement and power online discussions",
+    "tags": [
+      "comments",
+      "discussion",
+      "engagement"
+    ],
+    "category": "Discussion",
+    "pricing": "freemium",
+    "url": "https://disqus.com"
+  },
+  {
+    "id": 117,
+    "name": "DingTalk",
+    "description": "Enterprise communication and collaboration platform by Alibaba",
+    "tags": [
+      "communication",
+      "collaboration",
+      "enterprise"
+    ],
+    "category": "OA",
+    "pricing": "freemium",
+    "url": "https://dingtalk.com"
+  },
+  {
+    "id": 118,
+    "name": "Feishu",
+    "description": "Next-generation intelligent collaborative cloud platform for enterprise efficiency",
+    "tags": [
+      "collaboration",
+      "workspace",
+      "communication"
+    ],
+    "category": "OA",
+    "pricing": "freemium",
+    "url": "https://feishu.cn"
+  },
+  {
+    "id": 119,
+    "name": "Mikecrm",
+    "description": "Online form making tool and powerful customer information processing system",
+    "tags": [
+      "forms",
+      "crm",
+      "data-collection"
+    ],
+    "category": "Form",
+    "pricing": "freemium",
+    "url": "https://mikecrm.com"
+  },
+  {
+    "id": 120,
+    "name": "PowerBI",
+    "description": "Unified, scalable platform for self-service and enterprise business intelligence",
+    "tags": [
+      "bi",
+      "analytics",
+      "data-visualization"
+    ],
+    "category": "BI",
+    "pricing": "paid",
+    "url": "https://powerbi.microsoft.com"
+  },
+  {
+    "id": 121,
+    "name": "Ugosign",
+    "description": "Seal your deals faster and more securely with an online e-signature solution",
+    "tags": [
+      "e-signature",
+      "documents",
+      "legal"
+    ],
+    "category": "E-signature",
+    "pricing": "paid",
+    "url": "https://ugosign.com"
+  },
+  {
+    "id": 122,
+    "name": "Ping++",
+    "description": "Aggregation Payment Cloud SDK to easily add payment functions in apps",
+    "tags": [
+      "payments",
+      "integration",
+      "finance"
+    ],
+    "category": "Integration Payment",
+    "pricing": "paid",
+    "url": "https://pingxx.com"
+  },
+  {
+    "id": 123,
+    "name": "Automate.io",
+    "description": "Connect your cloud apps and automate work visually",
+    "tags": [
+      "automation",
+      "integration",
+      "workflow"
+    ],
+    "category": "Automation",
+    "pricing": "freemium",
+    "url": "https://automate.io"
+  },
+  {
+    "id": 124,
+    "name": "FlowGPT",
+    "description": "Platform empowering prompters to learn, build, and showcase their AI models",
+    "tags": [
+      "ai",
+      "prompts",
+      "community"
+    ],
+    "category": "AI",
+    "pricing": "freemium",
+    "url": "https://flowgpt.com"
+  },
+  {
+    "id": 125,
+    "name": "Jenni",
+    "description": "Intelligent AI-powered research assistant for academic and professional writing",
+    "tags": [
+      "ai",
+      "writing",
+      "research"
+    ],
+    "category": "Docs",
+    "pricing": "freemium",
+    "url": "https://jenni.ai"
+  },
+  {
+    "id": 126,
+    "name": "AFFiNE",
+    "description": "Next-gen open-source knowledge base bringing planning, sorting, and creating together",
+    "tags": [
+      "knowledge-base",
+      "planning",
+      "open-source"
+    ],
+    "category": "Docs",
+    "pricing": "freemium",
+    "url": "https://affine.pro"
+  },
+  {
+    "id": 127,
+    "name": "Craft",
+    "description": "Document builder made for digital devices to bring back the joy of writing",
+    "tags": [
+      "docs",
+      "writing",
+      "productivity"
+    ],
+    "category": "Docs",
+    "pricing": "freemium",
+    "url": "https://craft.do"
+  },
+  {
+    "id": 128,
+    "name": "Prezi",
+    "description": "Dynamic, canvas-based presentation software that moves beyond static slides",
+    "tags": [
+      "presentations",
+      "design",
+      "canvas"
+    ],
+    "category": "Docs",
+    "pricing": "freemium",
+    "url": "https://prezi.com"
+  },
+  {
+    "id": 129,
+    "name": "Proto.io",
+    "description": "Create fully-interactive high-fidelity prototypes that look and work like a real app",
+    "tags": [
+      "design",
+      "prototyping",
+      "ui"
+    ],
+    "category": "Design",
+    "pricing": "paid",
+    "url": "https://proto.io"
+  },
+  {
+    "id": 130,
+    "name": "UCloud",
+    "description": "Neutral cloud computing service provider focusing on enterprise-level cloud services",
+    "tags": [
+      "cloud",
+      "infrastructure",
+      "hosting"
+    ],
+    "category": "Cloud Services",
+    "pricing": "paid",
+    "url": "https://ucloud.cn"
+  },
+  {
+    "id": 131,
+    "name": "GrowingIO",
+    "description": "One-stop digital growth and customer data platform for product and marketing teams",
+    "tags": [
+      "analytics",
+      "cdp",
+      "marketing"
+    ],
+    "category": "Data Analysis",
+    "pricing": "paid",
+    "url": "https://growingio.com"
+  },
+  {
+    "id": 132,
+    "name": "Kissflow",
+    "description": "Digital Workplace designed for minimal disruption of work and easy project management",
+    "tags": [
+      "workflow",
+      "digital-workplace",
+      "management"
+    ],
+    "category": "Project & Team Management",
+    "pricing": "paid",
+    "url": "https://kissflow.com"
+  },
+  {
+    "id": 133,
+    "name": "Teambition",
+    "description": "Project space integrating network disks, documents, to-dos, and calendars",
+    "tags": [
+      "project-management",
+      "collaboration",
+      "tasks"
+    ],
+    "category": "Project & Team Management",
+    "pricing": "freemium",
+    "url": "https://teambition.com"
+  },
+  {
+    "id": 134,
+    "name": "SocialBu",
+    "description": "AI-powered social media management platform for scheduling, publishing, and monitoring",
+    "tags": [
+      "social-media",
+      "marketing",
+      "automation"
+    ],
+    "category": "Marketing",
+    "pricing": "freemium",
+    "url": "https://socialbu.com"
+  },
+  {
+    "id": 135,
+    "name": "Weimob",
+    "description": "Smart business service provider for commerce and marketing",
+    "tags": [
+      "ecommerce",
+      "marketing",
+      "business"
+    ],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://weimob.com"
+  },
+  {
+    "id": 136,
+    "name": "InvoiceFlow",
+    "description": "Simple invoicing and billing SaaS suitable for freelancers and small teams",
+    "tags": [
+      "invoicing",
+      "billing",
+      "finance"
+    ],
+    "category": "Cost Control",
+    "pricing": "freemium",
+    "url": "https://invoiceflow.io"
+  },
+  {
+    "id": 137,
+    "name": "Visual DB",
+    "description": "Web frontend for your database to create data entry forms and reports",
+    "tags": [
+      "database",
+      "low-code",
+      "forms"
+    ],
+    "category": "Low & No Code Platform",
+    "pricing": "freemium",
+    "url": "https://visualdb.com"
+  },
+  {
+    "id": 138,
+    "name": "Treelab",
+    "description": "Productivity tool that enables non-technical personnel to create business systems like Excel",
+    "tags": [
+      "spreadsheet",
+      "low-code",
+      "database"
+    ],
+    "category": "Low & No Code Platform",
+    "pricing": "freemium",
+    "url": "https://treelab.com"
+  },
+  {
+    "id": 139,
+    "name": "Frame",
+    "description": "A space for immersive VR presentations and meetings right from a web browser",
+    "tags": [
+      "vr",
+      "meetings",
+      "presentations"
+    ],
+    "category": "VR",
+    "pricing": "freemium",
+    "url": "https://framevr.io"
+  },
+  {
+    "id": 140,
+    "name": "CodePen",
+    "description": "Online code editor, learning environment, and community for front-end web development",
+    "tags": [
+      "coding",
+      "frontend",
+      "editor"
+    ],
+    "category": "Online Coding",
+    "pricing": "freemium",
+    "url": "https://codepen.io"
+  },
+  {
+    "id": 141,
+    "name": "OnlineInterview.io",
+    "description": "Free online interview platform with a shared code editor, drawing board and video chat",
+    "tags": [
+      "interviews",
+      "coding",
+      "hiring"
+    ],
+    "category": "Online Coding",
+    "pricing": "free",
+    "url": "https://onlineinterview.io"
+  },
+  {
+    "id": 142,
+    "name": "JustBlogged",
+    "description": "A no-setup blogging platform with custom domains, themes, and built-in SEO",
+    "tags": [
+      "blogging",
+      "cms",
+      "website"
+    ],
+    "category": "CMS & Website",
+    "pricing": "freemium",
+    "url": "https://justblogged.com"
+  },
+  {
+    "id": 143,
+    "name": "ProcessOn",
+    "description": "Online drawing tool for real-time collaboration on flowcharts and diagrams",
+    "tags": [
+      "diagrams",
+      "drawing",
+      "collaboration"
+    ],
+    "category": "Draw",
+    "pricing": "freemium",
+    "url": "https://processon.com"
+  },
+  {
+    "id": 144,
+    "name": "HeyForm",
+    "description": "Drag and drop online form builder with unlimited forms on the free tier",
+    "tags": [
+      "forms",
+      "survey",
+      "builder"
+    ],
+    "category": "Form",
+    "pricing": "freemium",
+    "url": "https://heyform.net"
+  },
+  {
+    "id": 145,
+    "name": "Tapform",
+    "description": "Free and unlimited forms builder for data collection and feedback",
+    "tags": [
+      "forms",
+      "data-collection",
+      "survey"
+    ],
+    "category": "Form",
+    "pricing": "free",
+    "url": "https://tapform.com"
+  },
+  {
+    "id": 146,
+    "name": "QlikView",
+    "description": "End-to-end, multi-cloud data integration and analytics solution",
+    "tags": [
+      "analytics",
+      "bi",
+      "data-integration"
+    ],
+    "category": "BI",
+    "pricing": "paid",
+    "url": "https://qlik.com"
+  },
+  {
+    "id": 147,
+    "name": "Vtrack",
+    "description": "Social network and tool for tracking workouts, physical progress, and statistics",
+    "tags": [
+      "fitness",
+      "tracking",
+      "health"
+    ],
+    "category": "Training",
+    "pricing": "freemium",
+    "url": "https://vtrack.com"
+  },
+  {
+    "id": 148,
+    "name": "AreYouFree",
+    "description": "Group scheduling polls and booking pages without requiring a sign-up",
+    "tags": [
+      "scheduling",
+      "meetings",
+      "calendar"
+    ],
+    "category": "Scheduling",
+    "pricing": "free",
+    "url": "https://areyoufree.com"
+  },
+  {
+    "id": 149,
+    "name": "When2meet",
+    "description": "Drag-to-select availability grid for finding group meeting times",
+    "tags": [
+      "scheduling",
+      "meetings",
+      "planning"
+    ],
+    "category": "Scheduling",
+    "pricing": "free",
+    "url": "https://when2meet.com"
+  },
+  {
+    "id": 150,
+    "name": "Rallly",
+    "description": "Open-source scheduling tool for finding the best date for group meetings",
+    "tags": [
+      "scheduling",
+      "open-source",
+      "polls"
+    ],
+    "category": "Scheduling",
+    "pricing": "free",
+    "url": "https://rallly.co"
+  },
+  {
+    "id": 151,
+    "name": "Linx",
+    "description": "Low-code platform for backend developers to build APIs and automations",
+    "tags": [
+      "low-code",
+      "backend",
+      "api"
+    ],
+    "category": "Low & No Code Platform",
+    "pricing": "paid",
+    "url": "https://linx.software"
+  },
+  {
+    "id": 152,
+    "name": "Microsoft Power Apps",
+    "description": "Suite of apps, services, and connectors to build custom business applications",
+    "tags": [
+      "low-code",
+      "enterprise",
+      "development"
+    ],
+    "category": "Low & No Code Platform",
+    "pricing": "paid",
+    "url": "https://powerapps.microsoft.com"
+  },
+  {
+    "id": 153,
+    "name": "teleportHQ",
+    "description": "Collaborative low-code platform that automatically writes code and deploys frontend UIs",
+    "tags": [
+      "frontend",
+      "low-code",
+      "design"
+    ],
+    "category": "Low & No Code Platform",
+    "pricing": "freemium",
+    "url": "https://teleporthq.io"
+  },
+  {
+    "id": 154,
+    "name": "ChartCube",
+    "description": "Fast and easy online chart generator for data visualization",
+    "tags": [
+      "charts",
+      "data",
+      "visualization"
+    ],
+    "category": "Data Analysis",
+    "pricing": "free",
+    "url": "https://chartcube.alipay.com"
+  },
+  {
+    "id": 155,
+    "name": "Xiaohulu",
+    "description": "Data statistics and analysis tool specifically for influencers and creators",
+    "tags": [
+      "analytics",
+      "creators",
+      "social-media"
+    ],
+    "category": "Data Analysis",
+    "pricing": "freemium",
+    "url": "https://xiaohulu.com"
+  },
+  {
+    "id": 156,
+    "name": "Ones",
+    "description": "R&D management tool integrating agile development and DevOps for enterprise teams",
+    "tags": [
+      "devops",
+      "agile",
+      "management"
+    ],
+    "category": "Project & Team Management",
+    "pricing": "paid",
+    "url": "https://ones.ai"
+  },
+  {
+    "id": 157,
+    "name": "XDeveloper",
+    "description": "Helps companies build efficient software delivery systems based on R&D metrics",
+    "tags": [
+      "metrics",
+      "engineering",
+      "delivery"
+    ],
+    "category": "Project & Team Management",
+    "pricing": "paid",
+    "url": "https://xdeveloper.com"
+  },
+  {
+    "id": 158,
+    "name": "PingCode",
+    "description": "New generation R&D management platform to improve engineering efficiency",
+    "tags": [
+      "engineering",
+      "management",
+      "agile"
+    ],
+    "category": "Project & Team Management",
+    "pricing": "paid",
+    "url": "https://pingcode.com"
+  },
+  {
+    "id": 159,
+    "name": "Framer",
+    "description": "Professional website design platform for startups to ship straight from the canvas",
+    "tags": [
+      "design",
+      "website-builder",
+      "no-code"
+    ],
+    "category": "Marketing",
+    "pricing": "freemium",
+    "url": "https://framer.com"
+  },
+  {
+    "id": 160,
+    "name": "SocialGrep Reddit Alerts",
+    "description": "Social media listening tool that pulls signals out of the social web of noise",
+    "tags": [
+      "listening",
+      "social-media",
+      "alerts"
+    ],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://socialgrep.com"
+  },
+  {
+    "id": 161,
+    "name": "SquareSpace",
+    "description": "Website Builder to create a professional website in minutes with premium templates",
+    "tags": [
+      "website-builder",
+      "design",
+      "hosting"
+    ],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://squarespace.com"
+  },
+  {
+    "id": 162,
+    "name": "EditorX",
+    "description": "Advanced creation platform for designers and web professionals with responsive drag and drop",
+    "tags": [
+      "design",
+      "website-builder",
+      "responsive"
+    ],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://editorx.com"
+  },
+  {
+    "id": 163,
+    "name": "PagesRUs",
+    "description": "AI-powered B2B business discovery and lead generation platform",
+    "tags": [
+      "b2b",
+      "leads",
+      "discovery"
+    ],
+    "category": "Marketing",
+    "pricing": "freemium",
+    "url": "https://pagesrus.com"
+  },
+  {
+    "id": 164,
+    "name": "Qing Flow",
+    "description": "Reshaping enterprise system development through no-code technology",
+    "tags": [
+      "no-code",
+      "enterprise",
+      "development"
+    ],
+    "category": "Low & No Code Platform",
+    "pricing": "paid",
+    "url": "https://qingflow.com"
+  },
+  {
+    "id": 165,
+    "name": "Storyteller",
+    "description": "No-code interactive tutorial and app walkthrough builder",
+    "tags": [
+      "onboarding",
+      "tutorials",
+      "no-code"
+    ],
+    "category": "Low & No Code Platform",
+    "pricing": "freemium",
+    "url": "https://storyteller.io"
+  },
+  {
+    "id": 166,
+    "name": "AnveVoice",
+    "description": "Voice AI agent for websites with agentic DOM actions and low latency",
+    "tags": [
+      "ai",
+      "voice",
+      "agent"
+    ],
+    "category": "AI",
+    "pricing": "freemium",
+    "url": "https://anvevoice.com"
+  },
+  {
+    "id": 167,
+    "name": "Donna",
+    "description": "AI plug-in for Microsoft Word that highlights and links relevant information",
+    "tags": [
+      "ai",
+      "writing",
+      "plugin"
+    ],
+    "category": "AI",
+    "pricing": "paid",
+    "url": "https://donna.ai"
+  },
+  {
+    "id": 168,
+    "name": "Lobe",
+    "description": "Helps you train machine learning models with a free, easy to use visual tool",
+    "tags": [
+      "machine-learning",
+      "ai",
+      "training"
+    ],
+    "category": "AI",
+    "pricing": "free",
+    "url": "https://lobe.ai"
+  },
+  {
+    "id": 169,
+    "name": "Wombo.art",
+    "description": "Create amazing works of art in seconds with the power of generative AI",
+    "tags": [
+      "ai",
+      "art",
+      "generation"
+    ],
+    "category": "AI",
+    "pricing": "freemium",
+    "url": "https://wombo.art"
+  },
+  {
+    "id": 170,
+    "name": "Vedika",
+    "description": "AI-powered Vedic astrology API with swarm intelligence for natural language predictions",
+    "tags": [
+      "api",
+      "ai",
+      "astrology"
+    ],
+    "category": "AI",
+    "pricing": "freemium",
+    "url": "https://vedika.ai"
+  },
+  {
+    "id": 171,
+    "name": "Whimsical",
+    "description": "Unified suite of collaboration tools for product specs, wikis, brainstorming, and user flows",
+    "tags": [
+      "diagrams",
+      "collaboration",
+      "design"
+    ],
+    "category": "Product & Design",
+    "pricing": "freemium",
+    "url": "https://whimsical.com"
+  },
+  {
+    "id": 172,
+    "name": "Lanhu",
+    "description": "Efficient product design collaboration and handoff platform for teams",
+    "tags": [
+      "design",
+      "handoff",
+      "collaboration"
+    ],
+    "category": "Product & Design",
+    "pricing": "freemium",
+    "url": "https://lanhuapp.com"
+  },
+  {
+    "id": 173,
+    "name": "MasterGo",
+    "description": "Professional UI/UX design tool for teams to co-edit and review online",
+    "tags": [
+      "design",
+      "ui",
+      "ux"
+    ],
+    "category": "Product & Design",
+    "pricing": "freemium",
+    "url": "https://mastergo.com"
+  },
+  {
+    "id": 174,
+    "name": "Linkz.ai",
+    "description": "Immersive hyperlink previews to keep visitors engaged on your website",
+    "tags": [
+      "links",
+      "previews",
+      "engagement"
+    ],
+    "category": "CMS & Website",
+    "pricing": "paid",
+    "url": "https://linkz.ai"
+  },
+  {
+    "id": 175,
+    "name": "API Status Check",
+    "description": "Real-time status monitoring dashboard for developer APIs including AWS and Stripe",
+    "tags": [
+      "monitoring",
+      "api",
+      "status"
+    ],
+    "category": "Log Analysis",
+    "pricing": "free",
+    "url": "https://apistatus.com"
+  },
+  {
+    "id": 176,
+    "name": "Wukong CRM",
+    "description": "Customer Relationship Management system for enterprise sales tracking",
+    "tags": [
+      "crm",
+      "sales",
+      "management"
+    ],
+    "category": "CRM & HR",
+    "pricing": "paid",
+    "url": "https://5kcrm.com"
+  },
+  {
+    "id": 177,
+    "name": "ShadowBot",
+    "description": "RPA tool that anyone can use to end repetitive work and release creative potential",
+    "tags": [
+      "rpa",
+      "automation",
+      "bots"
+    ],
+    "category": "RPA",
+    "pricing": "paid",
+    "url": "https://yingdao.com"
+  },
+  {
+    "id": 178,
+    "name": "UserTesting",
+    "description": "Hear what your audience is saying and see what they mean to create better experiences",
+    "tags": [
+      "usability",
+      "testing",
+      "feedback"
+    ],
+    "category": "User Experience",
+    "pricing": "paid",
+    "url": "https://usertesting.com"
+  },
+  {
+    "id": 179,
+    "name": "MeterCall",
+    "description": "One metered API gateway for payments, SMS, AI, CRMs, and government data",
+    "tags": [
+      "api",
+      "gateway",
+      "infrastructure"
+    ],
+    "category": "Developer Service",
+    "pricing": "freemium",
+    "url": "https://metercall.com"
+  },
+  {
+    "id": 180,
+    "name": "Baoxiaohe",
+    "description": "Online 3D packaging design and rendering tool for custom printing",
+    "tags": [
+      "3d",
+      "design",
+      "packaging"
+    ],
+    "category": "Product & Design",
+    "pricing": "freemium",
+    "url": "https://baoxiaohe.com"
+  },
+  {
+    "id": 181,
+    "name": "LastSaaS",
+    "description": "An open-source AI-native SaaS platform foundation with multi-tenant auth and billing",
+    "tags": [
+      "saas",
+      "boilerplate",
+      "foundation"
+    ],
+    "category": "Developer Tools",
+    "pricing": "free",
+    "url": "https://github.com/lastsaas/lastsaas"
+  },
+  {
+    "id": 182,
+    "name": "Directus",
+    "description": "An open-source real-time API and dashboard for managing SQL database content",
+    "tags": [
+      "cms",
+      "database",
+      "api"
+    ],
+    "category": "Content Management Systems",
+    "pricing": "freemium",
+    "url": "https://directus.io"
+  },
+  {
+    "id": 183,
+    "name": "Payload CMS",
+    "description": "A Next.js native, open-source headless CMS that installs directly in your app folder",
+    "tags": [
+      "cms",
+      "nextjs",
+      "headless"
+    ],
+    "category": "Content Management Systems",
+    "pricing": "free",
+    "url": "https://payloadcms.com"
+  },
+  {
+    "id": 184,
+    "name": "Netdata",
+    "description": "An open-source observability platform for real-time infrastructure monitoring and analytics",
+    "tags": [
+      "monitoring",
+      "infrastructure",
+      "analytics"
+    ],
+    "category": "Analytics & Monitoring",
+    "pricing": "freemium",
+    "url": "https://netdata.cloud"
+  },
+  {
+    "id": 185,
+    "name": "Umami",
+    "description": "An open-source, privacy-focused web analytics platform alternative to Google Analytics",
+    "tags": [
+      "analytics",
+      "privacy",
+      "tracking"
+    ],
+    "category": "Analytics & Monitoring",
+    "pricing": "free",
+    "url": "https://umami.is"
+  },
+  {
+    "id": 186,
+    "name": "Redash",
+    "description": "An open-source data visualization and dashboard tool to explore and share SQL data",
+    "tags": [
+      "visualization",
+      "dashboard",
+      "sql"
+    ],
+    "category": "Analytics & Monitoring",
+    "pricing": "free",
+    "url": "https://redash.io"
+  },
+  {
+    "id": 187,
+    "name": "OpenReplay",
+    "description": "An open-source session replay platform to understand user interactions and troubleshoot",
+    "tags": [
+      "analytics",
+      "session-replay",
+      "debugging"
+    ],
+    "category": "Analytics & Monitoring",
+    "pricing": "freemium",
+    "url": "https://openreplay.com"
+  },
+  {
+    "id": 188,
+    "name": "Matomo",
+    "description": "An open-source web analytics platform that provides full data ownership and privacy",
+    "tags": [
+      "analytics",
+      "privacy",
+      "tracking"
+    ],
+    "category": "Analytics & Monitoring",
+    "pricing": "freemium",
+    "url": "https://matomo.org"
+  },
+  {
+    "id": 189,
+    "name": "Open WebUI",
+    "description": "An extensible, self-hosted AI platform that supports offline operation and multiple LLMs",
+    "tags": [
+      "ai",
+      "ui",
+      "self-hosted"
+    ],
+    "category": "AI & Machine Learning",
+    "pricing": "free",
+    "url": "https://openwebui.com"
+  },
+  {
+    "id": 190,
+    "name": "Lobe Chat",
+    "description": "Modern LLM UI framework enabling one-click deployment of private AI chat applications",
+    "tags": [
+      "ai",
+      "chat",
+      "ui"
+    ],
+    "category": "AI & Machine Learning",
+    "pricing": "free",
+    "url": "https://lobehub.com"
+  },
+  {
+    "id": 191,
+    "name": "AnythingLLM",
+    "description": "Comprehensive AI application to chat with documents and create multi-user environments",
+    "tags": [
+      "ai",
+      "documents",
+      "agents"
+    ],
+    "category": "AI & Machine Learning",
+    "pricing": "free",
+    "url": "https://useanything.com"
+  },
+  {
+    "id": 192,
+    "name": "LibreChat",
+    "description": "Open-source AI chat platform integrating multiple AI models with enhanced customization",
+    "tags": [
+      "ai",
+      "chat",
+      "multi-model"
+    ],
+    "category": "AI & Machine Learning",
+    "pricing": "free",
+    "url": "https://librechat.ai"
+  },
+  {
+    "id": 193,
+    "name": "Jan",
+    "description": "Offline AI assistant enabling users to run language models locally with full privacy",
+    "tags": [
+      "ai",
+      "offline",
+      "privacy"
+    ],
+    "category": "AI & Machine Learning",
+    "pricing": "free",
+    "url": "https://jan.ai"
+  },
+  {
+    "id": 194,
+    "name": "Insomnia",
+    "description": "Cross-platform API client enabling debugging, designing, testing, and mocking APIs",
+    "tags": [
+      "api",
+      "debugging",
+      "testing"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://insomnia.rest"
+  },
+  {
+    "id": 195,
+    "name": "Gitpod",
+    "description": "On-demand, pre-configured cloud development environments that automate dependencies",
+    "tags": [
+      "ide",
+      "cloud",
+      "developer"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://gitpod.io"
+  },
+  {
+    "id": 196,
+    "name": "Outline",
+    "description": "A collaborative knowledge base platform for teams, built with React and Node.js",
+    "tags": [
+      "knowledge-base",
+      "docs",
+      "collaboration"
+    ],
+    "category": "Team Collaboration",
+    "pricing": "paid",
+    "url": "https://getoutline.com"
+  },
+  {
+    "id": 197,
+    "name": "Quackback",
+    "description": "Open source feedback platform with voting boards, public roadmaps, and changelogs",
+    "tags": [
+      "feedback",
+      "roadmap",
+      "voting"
+    ],
+    "category": "Customer Support & Engagement",
+    "pricing": "free",
+    "url": "https://quackback.com"
+  },
+  {
+    "id": 198,
+    "name": "Customermates",
+    "description": "An open-source CRM with native workflow automation built for small B2B teams",
+    "tags": [
+      "crm",
+      "sales",
+      "automation"
+    ],
+    "category": "CRM & Sales",
+    "pricing": "free",
+    "url": "https://github.com/customermates/customermates"
+  },
+  {
+    "id": 199,
+    "name": "Focalboard",
+    "description": "Open-source project management tool to define, organize, and track work across teams",
+    "tags": [
+      "project-management",
+      "kanban",
+      "tracking"
+    ],
+    "category": "Productivity & Project Management",
+    "pricing": "free",
+    "url": "https://focalboard.com"
+  },
+  {
+    "id": 200,
+    "name": "Huly Platform",
+    "description": "Framework for business applications integrating Chat, Project Management, CRM, and HRM",
+    "tags": [
+      "crm",
+      "hrm",
+      "framework"
+    ],
+    "category": "Productivity & Project Management",
+    "pricing": "free",
+    "url": "https://huly.io"
+  },
+  {
+    "id": 201,
+    "name": "Postiz",
+    "description": "AI-powered social media scheduling platform to manage posts and optimize content",
+    "tags": [
+      "social-media",
+      "scheduling",
+      "marketing"
+    ],
+    "category": "Productivity & Project Management",
+    "pricing": "free",
+    "url": "https://postiz.com"
+  },
+  {
+    "id": 202,
+    "name": "Tymeslot",
+    "description": "Meeting scheduling platform alternative to Calendly with calendar sync and SSO",
+    "tags": [
+      "scheduling",
+      "calendar",
+      "meetings"
+    ],
+    "category": "Productivity & Project Management",
+    "pricing": "free",
+    "url": "https://tymeslot.com"
+  },
+  {
+    "id": 203,
+    "name": "CodeEdit",
+    "description": "A native macOS code editor built by the community for a seamless coding experience",
+    "tags": [
+      "editor",
+      "macos",
+      "coding"
+    ],
+    "category": "Desktop Applications",
+    "pricing": "free",
+    "url": "https://codeedit.app"
+  },
+  {
+    "id": 204,
+    "name": "Kap",
+    "description": "Open-source screen recording application to capture, record, and share screen content",
+    "tags": [
+      "screen-recording",
+      "capture",
+      "video"
+    ],
+    "category": "Desktop Applications",
+    "pricing": "free",
+    "url": "https://getkap.co"
+  },
+  {
+    "id": 205,
+    "name": "Reminders MenuBar",
+    "description": "macOS menu bar application to view, create, and manage Apple Reminders quickly",
+    "tags": [
+      "macos",
+      "reminders",
+      "productivity"
+    ],
+    "category": "Desktop Applications",
+    "pricing": "free",
+    "url": "https://github.com/tnantoka/Reminders-MenuBar"
+  },
+  {
+    "id": 206,
+    "name": "Coolify",
+    "description": "Open-source, self-hostable alternative to cloud deployment platforms like Heroku",
+    "tags": [
+      "deployment",
+      "hosting",
+      "infrastructure"
+    ],
+    "category": "Infrastructure & DevOps",
+    "pricing": "free",
+    "url": "https://coolify.io"
+  },
+  {
+    "id": 207,
+    "name": "Dokploy",
+    "description": "Free, self-hostable Platform as a Service simplifying deployment and management",
+    "tags": [
+      "paas",
+      "deployment",
+      "infrastructure"
+    ],
+    "category": "Infrastructure & DevOps",
+    "pricing": "free",
+    "url": "https://dokploy.com"
+  },
+  {
+    "id": 208,
+    "name": "Gatus",
+    "description": "Proactive endpoint monitoring tool providing real-time alerts and health checks",
+    "tags": [
+      "monitoring",
+      "endpoints",
+      "health"
+    ],
+    "category": "Infrastructure & DevOps",
+    "pricing": "free",
+    "url": "https://gatus.io"
+  },
+  {
+    "id": 209,
+    "name": "OpenStatus",
+    "description": "Open-source synthetic monitoring platform tracking websites and APIs globally",
+    "tags": [
+      "monitoring",
+      "status",
+      "alerts"
+    ],
+    "category": "Infrastructure & DevOps",
+    "pricing": "free",
+    "url": "https://openstatus.dev"
+  },
+  {
+    "id": 210,
+    "name": "Checkmate",
+    "description": "Uptime and infrastructure monitoring application tracking operational server status",
+    "tags": [
+      "monitoring",
+      "uptime",
+      "infrastructure"
+    ],
+    "category": "Infrastructure & DevOps",
+    "pricing": "free",
+    "url": "https://checkmate.dev"
+  },
+  {
+    "id": 211,
+    "name": "Documenso",
+    "description": "Open-source digital document signing platform providing a trusted self-hostable alternative",
+    "tags": [
+      "e-signature",
+      "documents",
+      "signing"
+    ],
+    "category": "Document Management",
+    "pricing": "free",
+    "url": "https://documenso.com"
+  },
+  {
+    "id": 212,
+    "name": "Markdown Resume",
+    "description": "Tool for creating professional resumes using markdown with live preview and PDF export",
+    "tags": [
+      "resume",
+      "markdown",
+      "career"
+    ],
+    "category": "Document Management",
+    "pricing": "free",
+    "url": "https://markdownresume.com"
+  },
+  {
+    "id": 213,
+    "name": "Maybe",
+    "description": "Open-source personal finance and wealth management application",
+    "tags": [
+      "finance",
+      "personal-finance",
+      "tracking"
+    ],
+    "category": "Financial Tools",
+    "pricing": "free",
+    "url": "https://maybe.co"
+  },
+  {
+    "id": 214,
+    "name": "GitHub Copilot",
+    "description": "Your AI pair programmer that uses OpenAI Codex to suggest code in real-time.",
+    "tags": [
+      "coding",
+      "ai-assistant",
+      "developer-tools"
+    ],
+    "category": "Developer Tools",
+    "pricing": "paid",
+    "url": "https://github.com/features/copilot"
+  },
+  {
+    "id": 215,
+    "name": "Codeball AI",
+    "description": "AI-powered code review that finds bugs in Pull Requests to let you ship faster.",
+    "tags": [
+      "code-review",
+      "ai",
+      "github"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://codeball.ai"
+  },
+  {
+    "id": 216,
+    "name": "AutoGPT",
+    "description": "An automated tool and experimental open-source attempt to make GPT-4 fully autonomous.",
+    "tags": [
+      "ai",
+      "autonomous-agents",
+      "automation"
+    ],
+    "category": "AI",
+    "pricing": "free",
+    "url": "https://agpt.co"
+  },
+  {
+    "id": 217,
+    "name": "Blackbox AI",
+    "description": "AI coding assistant that turns plain English into code and answers programming questions.",
+    "tags": [
+      "coding",
+      "ai",
+      "snippets"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://useblackbox.io"
+  },
+  {
+    "id": 218,
+    "name": "Safurai",
+    "description": "Write code 10x faster with this AI-powered coding assistant extension for IDEs.",
+    "tags": [
+      "ide",
+      "coding",
+      "ai-assistant"
+    ],
+    "category": "Developer Tools",
+    "pricing": "free",
+    "url": "https://safurai.com"
+  },
+  {
+    "id": 219,
+    "name": "Codeium",
+    "description": "Unlock modern coding superpowers with powerful, free AI code completion tools.",
+    "tags": [
+      "code-completion",
+      "ai",
+      "developer-tools"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://codeium.com"
+  },
+  {
+    "id": 220,
+    "name": "Tabnine",
+    "description": "Boost your coding speed with privacy-focused, AI-powered code completions.",
+    "tags": [
+      "coding",
+      "ai",
+      "privacy"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://tabnine.com"
+  },
+  {
+    "id": 221,
+    "name": "Feathery",
+    "description": "Powerful AI form builder specifically designed for product and growth teams.",
+    "tags": [
+      "forms",
+      "ai",
+      "product"
+    ],
+    "category": "Form",
+    "pricing": "freemium",
+    "url": "https://feathery.io"
+  },
+  {
+    "id": 222,
+    "name": "SMOL AI",
+    "description": "Human-centric and coherent whole program synthesis, acting as a personal junior developer.",
+    "tags": [
+      "ai",
+      "code-generation",
+      "synthesis"
+    ],
+    "category": "Developer Tools",
+    "pricing": "free",
+    "url": "https://github.com/smol-ai/developer"
+  },
+  {
+    "id": 223,
+    "name": "Open Interpreter",
+    "description": "Lets LLMs run code locally so you can chat with your computer's terminal.",
+    "tags": [
+      "terminal",
+      "ai",
+      "execution"
+    ],
+    "category": "Developer Tools",
+    "pricing": "free",
+    "url": "https://openinterpreter.com"
+  },
+  {
+    "id": 224,
+    "name": "HyperWrite",
+    "description": "AI agent that uses your browser in real-time to do jobs and research for you.",
+    "tags": [
+      "ai",
+      "browser-automation",
+      "productivity"
+    ],
+    "category": "AI",
+    "pricing": "freemium",
+    "url": "https://hyperwriteai.com"
+  },
+  {
+    "id": 225,
+    "name": "Pixee",
+    "description": "Security bot that finds code quality issues and creates merge-ready pull requests.",
+    "tags": [
+      "security",
+      "github",
+      "automation"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://pixee.ai"
+  },
+  {
+    "id": 226,
+    "name": "Potpie AI",
+    "description": "Pre-built testing, debugging, and Q&A agents customized for your codebase.",
+    "tags": [
+      "testing",
+      "debugging",
+      "ai-agents"
+    ],
+    "category": "Developer Tools",
+    "pricing": "paid",
+    "url": "https://potpie.ai"
+  },
+  {
+    "id": 227,
+    "name": "DALL-E",
+    "description": "OpenAI system that creates highly realistic images and art from natural language descriptions.",
+    "tags": [
+      "image-generation",
+      "ai",
+      "art"
+    ],
+    "category": "AI Image Generation",
+    "pricing": "paid",
+    "url": "https://openai.com/dall-e-3"
+  },
+  {
+    "id": 228,
+    "name": "Ideogram",
+    "description": "AI image generator highly capable of rendering accurate text within generated images.",
+    "tags": [
+      "image-generation",
+      "typography",
+      "ai"
+    ],
+    "category": "AI Image Generation",
+    "pricing": "freemium",
+    "url": "https://ideogram.ai"
+  },
+  {
+    "id": 229,
+    "name": "Playground AI",
+    "description": "Free-to-use online AI image creator to generate art, social media posts, and designs.",
+    "tags": [
+      "image-generation",
+      "design",
+      "ai"
+    ],
+    "category": "AI Image Generation",
+    "pricing": "freemium",
+    "url": "https://playgroundai.com"
+  },
+  {
+    "id": 230,
+    "name": "Lexica",
+    "description": "A massive search engine for Stable Diffusion images and the prompts used to create them.",
+    "tags": [
+      "search-engine",
+      "prompts",
+      "ai-images"
+    ],
+    "category": "AI Image Generation",
+    "pricing": "free",
+    "url": "https://lexica.art"
+  },
+  {
+    "id": 231,
+    "name": "Craiyon",
+    "description": "Formerly DALL-E mini, an accessible AI model that draws images from any text prompt.",
+    "tags": [
+      "image-generation",
+      "ai",
+      "free"
+    ],
+    "category": "AI Image Generation",
+    "pricing": "freemium",
+    "url": "https://craiyon.com"
+  },
+  {
+    "id": 232,
+    "name": "Imgcreator AI",
+    "description": "Text to image and image to image AI designer, perfect for room remodeling and concepts.",
+    "tags": [
+      "image-generation",
+      "design",
+      "real-estate"
+    ],
+    "category": "AI Image Generation",
+    "pricing": "freemium",
+    "url": "https://imgcreator.zmo.ai"
+  },
+  {
+    "id": 233,
+    "name": "Relume Library",
+    "description": "Design and build websites using AI and the world's largest library of Webflow components.",
+    "tags": [
+      "webflow",
+      "design",
+      "website-builder"
+    ],
+    "category": "Design",
+    "pricing": "freemium",
+    "url": "https://library.relume.io"
+  },
+  {
+    "id": 234,
+    "name": "Microsoft Designer",
+    "description": "AI-powered graphic design app that helps you create professional quality social posts.",
+    "tags": [
+      "design",
+      "marketing",
+      "graphics"
+    ],
+    "category": "AI Design",
+    "pricing": "freemium",
+    "url": "https://designer.microsoft.com"
+  },
+  {
+    "id": 235,
+    "name": "Hugging Face",
+    "description": "The leading AI community and library for natural language processing and model hosting.",
+    "tags": [
+      "nlp",
+      "machine-learning",
+      "open-source"
+    ],
+    "category": "NLP",
+    "pricing": "freemium",
+    "url": "https://huggingface.co"
+  },
+  {
+    "id": 236,
+    "name": "Descript",
+    "description": "AI-powered video and audio editor that lets you edit media by editing the text transcript.",
+    "tags": [
+      "video-editing",
+      "audio",
+      "transcription"
+    ],
+    "category": "Video Generation and Editing",
+    "pricing": "freemium",
+    "url": "https://descript.com"
+  },
+  {
+    "id": 237,
+    "name": "ElevenLabs",
+    "description": "Brings rich and lifelike AI voices to creators seeking the ultimate text-to-speech tools.",
+    "tags": [
+      "voice",
+      "audio",
+      "text-to-speech"
+    ],
+    "category": "Audio",
+    "pricing": "freemium",
+    "url": "https://elevenlabs.io"
+  },
+  {
+    "id": 238,
+    "name": "RunwayML",
+    "description": "Applied AI research company shaping the next era of art, entertainment and human creativity.",
+    "tags": [
+      "video-generation",
+      "vfx",
+      "ai-tools"
+    ],
+    "category": "Video Generation and Editing",
+    "pricing": "freemium",
+    "url": "https://runwayml.com"
+  },
+  {
+    "id": 239,
+    "name": "Synthesia",
+    "description": "Create professional videos with AI avatars turning text into speech in over 120 languages.",
+    "tags": [
+      "video-generation",
+      "avatars",
+      "ai"
+    ],
+    "category": "Video Person Character",
+    "pricing": "paid",
+    "url": "https://synthesia.io"
+  },
+  {
+    "id": 240,
+    "name": "Copy.ai",
+    "description": "AI writer that generates marketing copy, social media content, and blog outlines.",
+    "tags": [
+      "copywriting",
+      "marketing",
+      "ai"
+    ],
+    "category": "Marketing",
+    "pricing": "freemium",
+    "url": "https://copy.ai"
+  },
+  {
+    "id": 241,
+    "name": "Jasper",
+    "description": "Generative AI platform helping teams create content tailored for their brand 10x faster.",
+    "tags": [
+      "marketing",
+      "copywriting",
+      "ai-writer"
+    ],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://jasper.ai"
+  },
+  {
+    "id": 242,
+    "name": "VMake.AI",
+    "description": "AI fashion models and product photography tools to eliminate traditional photoshoots.",
+    "tags": [
+      "ecommerce",
+      "photography",
+      "ai-images"
+    ],
+    "category": "E-Commerce",
+    "pricing": "freemium",
+    "url": "https://vmake.ai"
+  },
+  {
+    "id": 243,
+    "name": "Sheetplus",
+    "description": "Write Google Sheets and Excel formulas 10x faster using simple AI text prompts.",
+    "tags": [
+      "spreadsheets",
+      "excel",
+      "productivity"
+    ],
+    "category": "Productivity",
+    "pricing": "freemium",
+    "url": "https://sheetplus.ai"
+  },
+  {
+    "id": 244,
+    "name": "Twitch",
+    "description": "Interactive livestreaming service and global community for gaming, entertainment, music, and more.",
+    "tags": [
+      "streaming",
+      "video",
+      "gaming",
+      "community"
+    ],
+    "category": "Streaming & Media",
+    "pricing": "freemium",
+    "url": "https://twitch.tv"
+  },
+  {
+    "id": 245,
+    "name": "Oso",
+    "description": "Batteries-included authorization platform for building access control into applications.",
+    "tags": [
+      "authorization",
+      "security",
+      "rbac"
+    ],
+    "category": "Auth and SSO",
+    "pricing": "freemium",
+    "url": "https://osohq.com"
+  },
+  {
+    "id": 246,
+    "name": "Cerbos",
+    "description": "Painless access control for cloud-native applications with stateless authorization.",
+    "tags": [
+      "access-control",
+      "auth",
+      "cloud-native"
+    ],
+    "category": "Auth and SSO",
+    "pricing": "freemium",
+    "url": "https://cerbos.dev"
+  },
+  {
+    "id": 247,
+    "name": "ZITADEL",
+    "description": "Open-source identity management platform combining the best of Auth0 and Keycloak.",
+    "tags": [
+      "auth",
+      "sso",
+      "iam"
+    ],
+    "category": "Auth and SSO",
+    "pricing": "freemium",
+    "url": "https://zitadel.com"
+  },
+  {
+    "id": 248,
+    "name": "BoxyHQ",
+    "description": "Enterprise readiness made simple with open-source SAML SSO and directory sync.",
+    "tags": [
+      "enterprise",
+      "auth",
+      "saml"
+    ],
+    "category": "Auth and SSO",
+    "pricing": "freemium",
+    "url": "https://boxyhq.com"
+  },
+  {
+    "id": 249,
+    "name": "OPAL",
+    "description": "Policy and data administration, distribution, and real-time updates on top of Open Policy Agent.",
+    "tags": [
+      "policy",
+      "auth",
+      "opa"
+    ],
+    "category": "Auth and SSO",
+    "pricing": "free",
+    "url": "https://opal.ac"
+  },
+  {
+    "id": 250,
+    "name": "Ory",
+    "description": "Cloud-native identity and access management system with zero trust architecture.",
+    "tags": [
+      "identity",
+      "auth",
+      "cloud-native"
+    ],
+    "category": "Auth and SSO",
+    "pricing": "freemium",
+    "url": "https://ory.sh"
+  },
+  {
+    "id": 251,
+    "name": "FusionAuth",
+    "description": "Flexible and scalable identity and access management for modern applications.",
+    "tags": [
+      "auth",
+      "identity",
+      "sso"
+    ],
+    "category": "Auth and SSO",
+    "pricing": "freemium",
+    "url": "https://fusionauth.io"
+  },
+  {
+    "id": 252,
+    "name": "Casbin",
+    "description": "A powerful and efficient open-source access control library supporting ACL, RBAC, ABAC.",
+    "tags": [
+      "auth",
+      "access-control",
+      "golang"
+    ],
+    "category": "Auth and SSO",
+    "pricing": "free",
+    "url": "https://casbin.org"
+  },
+  {
+    "id": 253,
+    "name": "SuperTokens",
+    "description": "Open core alternative to proprietary login providers like Auth0 or AWS Cognito.",
+    "tags": [
+      "auth",
+      "login",
+      "identity"
+    ],
+    "category": "Auth and SSO",
+    "pricing": "freemium",
+    "url": "https://supertokens.com"
+  },
+  {
+    "id": 254,
+    "name": "Rancher",
+    "description": "Complete container management platform to deploy and manage Kubernetes.",
+    "tags": [
+      "kubernetes",
+      "container",
+      "devops"
+    ],
+    "category": "CI-CD",
+    "pricing": "free",
+    "url": "https://rancher.com"
+  },
+  {
+    "id": 255,
+    "name": "Argo CD",
+    "description": "Declarative, GitOps continuous delivery tool for Kubernetes.",
+    "tags": [
+      "kubernetes",
+      "gitops",
+      "deployment"
+    ],
+    "category": "CI-CD",
+    "pricing": "free",
+    "url": "https://argoproj.github.io/cd"
+  },
+  {
+    "id": 256,
+    "name": "Dagger",
+    "description": "A portable devkit for CI/CD pipelines that runs anywhere.",
+    "tags": [
+      "devops",
+      "ci-cd",
+      "pipelines"
+    ],
+    "category": "CI-CD",
+    "pricing": "free",
+    "url": "https://dagger.io"
+  },
+  {
+    "id": 257,
+    "name": "Drone",
+    "description": "Container-native, continuous delivery platform supporting multiple pipelines.",
+    "tags": [
+      "ci-cd",
+      "containers",
+      "devops"
+    ],
+    "category": "CI-CD",
+    "pricing": "free",
+    "url": "https://drone.io"
+  },
+  {
+    "id": 258,
+    "name": "Spinnaker",
+    "description": "Open source, multi-cloud continuous delivery platform for releasing software changes.",
+    "tags": [
+      "continuous-delivery",
+      "multi-cloud",
+      "deployment"
+    ],
+    "category": "CI-CD",
+    "pricing": "free",
+    "url": "https://spinnaker.io"
+  },
+  {
+    "id": 259,
+    "name": "Decap CMS",
+    "description": "Formerly Netlify CMS, a Git-based content management system for static site generators.",
+    "tags": [
+      "cms",
+      "static-sites",
+      "git"
+    ],
+    "category": "CMS",
+    "pricing": "free",
+    "url": "https://decapcms.org"
+  },
+  {
+    "id": 260,
+    "name": "Grav",
+    "description": "Modern, crazy fast, ridiculously easy and amazingly powerful flat-file CMS.",
+    "tags": [
+      "cms",
+      "flat-file",
+      "fast"
+    ],
+    "category": "CMS",
+    "pricing": "free",
+    "url": "https://getgrav.org"
+  },
+  {
+    "id": 261,
+    "name": "ApostropheCMS",
+    "description": "The open-source website builder and CMS for enterprise companies.",
+    "tags": [
+      "cms",
+      "website-builder",
+      "nodejs"
+    ],
+    "category": "CMS",
+    "pricing": "freemium",
+    "url": "https://apostrophecms.com"
+  },
+  {
+    "id": 262,
+    "name": "Builder.io",
+    "description": "Drag and drop page builder and CMS for React, Vue, Angular, and more.",
+    "tags": [
+      "cms",
+      "visual-builder",
+      "headless"
+    ],
+    "category": "CMS",
+    "pricing": "freemium",
+    "url": "https://builder.io"
+  },
+  {
+    "id": 263,
+    "name": "Sulu",
+    "description": "Deliver awesome, robust, reliable websites with Sulu CMS based on Symfony.",
+    "tags": [
+      "cms",
+      "symfony",
+      "enterprise"
+    ],
+    "category": "CMS",
+    "pricing": "free",
+    "url": "https://sulu.io"
+  },
+  {
+    "id": 264,
+    "name": "Wagtail",
+    "description": "A Django content management system focused on flexibility and user experience.",
+    "tags": [
+      "cms",
+      "django",
+      "python"
+    ],
+    "category": "CMS",
+    "pricing": "free",
+    "url": "https://wagtail.org"
+  },
+  {
+    "id": 265,
+    "name": "TinaCMS",
+    "description": "The fastest way to edit Next.js content with a visual editing experience.",
+    "tags": [
+      "cms",
+      "nextjs",
+      "headless"
+    ],
+    "category": "CMS",
+    "pricing": "free",
+    "url": "https://tina.io"
+  },
+  {
+    "id": 266,
+    "name": "Semgrep",
+    "description": "Lightweight static analysis tool to find and fix bugs in your code quickly.",
+    "tags": [
+      "security",
+      "static-analysis",
+      "code-quality"
+    ],
+    "category": "Code Quality",
+    "pricing": "freemium",
+    "url": "https://semgrep.dev"
+  },
+  {
+    "id": 267,
+    "name": "SonarQube",
+    "description": "Continuous code inspection tool for managing code quality and security.",
+    "tags": [
+      "code-quality",
+      "security",
+      "continuous-inspection"
+    ],
+    "category": "Code Quality",
+    "pricing": "freemium",
+    "url": "https://sonarqube.org"
+  },
+  {
+    "id": 268,
+    "name": "Jitsi Meet",
+    "description": "Secure, simple and scalable video conferences that you use as a standalone app or embed.",
+    "tags": [
+      "video",
+      "conferencing",
+      "webrtc"
+    ],
+    "category": "Communication",
+    "pricing": "free",
+    "url": "https://jitsi.org"
+  },
+  {
+    "id": 269,
+    "name": "LiveKit",
+    "description": "An open-source platform for real-time audio and video scalable infrastructure.",
+    "tags": [
+      "webrtc",
+      "audio",
+      "video"
+    ],
+    "category": "Communication",
+    "pricing": "freemium",
+    "url": "https://livekit.io"
+  },
+  {
+    "id": 270,
+    "name": "BigBlueButton",
+    "description": "Complete open source web conferencing system focused primarily on online learning.",
+    "tags": [
+      "video",
+      "conferencing",
+      "education"
+    ],
+    "category": "Communication",
+    "pricing": "free",
+    "url": "https://bigbluebutton.org"
+  },
+  {
+    "id": 271,
+    "name": "Novu",
+    "description": "Open-source notification management simplified for engineering teams.",
+    "tags": [
+      "notifications",
+      "infrastructure",
+      "alerts"
+    ],
+    "category": "Communication",
+    "pricing": "freemium",
+    "url": "https://novu.co"
+  },
+  {
+    "id": 272,
+    "name": "Rocket.Chat",
+    "description": "The open-source communications platform that puts data protection first.",
+    "tags": [
+      "chat",
+      "communication",
+      "team"
+    ],
+    "category": "Communication",
+    "pricing": "freemium",
+    "url": "https://rocket.chat"
+  },
+  {
+    "id": 273,
+    "name": "Odoo",
+    "description": "An open-source suite of integrated business applications including CRM, POS, and ERP.",
+    "tags": [
+      "erp",
+      "crm",
+      "business"
+    ],
+    "category": "CRM",
+    "pricing": "freemium",
+    "url": "https://odoo.com"
+  },
+  {
+    "id": 274,
+    "name": "CloudQuery",
+    "description": "The open-source cloud asset inventory powered by SQL for compliance and security.",
+    "tags": [
+      "cybersecurity",
+      "sql",
+      "asset-inventory"
+    ],
+    "category": "Cybersecurity",
+    "pricing": "free",
+    "url": "https://cloudquery.io"
+  },
+  {
+    "id": 275,
+    "name": "RudderStack",
+    "description": "Privacy and security-focused customer data platform (CDP) for developers.",
+    "tags": [
+      "cdp",
+      "analytics",
+      "data"
+    ],
+    "category": "Data Analytics",
+    "pricing": "freemium",
+    "url": "https://rudderstack.com"
+  },
+  {
+    "id": 276,
+    "name": "Apache Superset",
+    "description": "Modern data exploration and data visualization platform for enterprise analytics.",
+    "tags": [
+      "bi",
+      "visualization",
+      "data"
+    ],
+    "category": "Data Analytics",
+    "pricing": "free",
+    "url": "https://superset.apache.org"
+  },
+  {
+    "id": 277,
+    "name": "Enso",
+    "description": "Hybrid visual and textual functional programming environment for data processing.",
+    "tags": [
+      "data",
+      "functional-programming",
+      "visual"
+    ],
+    "category": "Data Analytics",
+    "pricing": "freemium",
+    "url": "https://enso.org"
+  },
+  {
+    "id": 278,
+    "name": "Great Expectations",
+    "description": "Data validation, documentation, and profiling platform to maintain data quality.",
+    "tags": [
+      "data-quality",
+      "testing",
+      "pipeline"
+    ],
+    "category": "Data Validation",
+    "pricing": "freemium",
+    "url": "https://greatexpectations.io"
+  },
+  {
+    "id": 279,
+    "name": "Arize-Phoenix",
+    "description": "ML observability platform to validate, monitor, and fine-tune generative LLMs.",
+    "tags": [
+      "ml-observability",
+      "llm",
+      "ai"
+    ],
+    "category": "Data Validation",
+    "pricing": "free",
+    "url": "https://arize.com/phoenix"
+  },
+  {
+    "id": 280,
+    "name": "Neo4j",
+    "description": "High-performance graph database management system for connected data.",
+    "tags": [
+      "graph-database",
+      "nosql",
+      "data"
+    ],
+    "category": "Databases",
+    "pricing": "freemium",
+    "url": "https://neo4j.com"
+  },
+  {
+    "id": 281,
+    "name": "ClickHouse",
+    "description": "Fast open-source columnar database management system for real-time analytics.",
+    "tags": [
+      "analytics",
+      "dbms",
+      "big-data"
+    ],
+    "category": "Databases",
+    "pricing": "freemium",
+    "url": "https://clickhouse.com"
+  },
+  {
+    "id": 282,
+    "name": "Milvus",
+    "description": "Vector database built specifically for scalable similarity search and AI applications.",
+    "tags": [
+      "vector-database",
+      "ai",
+      "search"
+    ],
+    "category": "Databases",
+    "pricing": "free",
+    "url": "https://milvus.io"
+  },
+  {
+    "id": 283,
+    "name": "YugabyteDB",
+    "description": "High-performance distributed SQL database for global, internet-scale apps.",
+    "tags": [
+      "sql",
+      "distributed",
+      "database"
+    ],
+    "category": "Databases",
+    "pricing": "freemium",
+    "url": "https://yugabyte.com"
+  },
+  {
+    "id": 284,
+    "name": "DragonflyDB",
+    "description": "Modern, high-performance replacement for Redis and Memcached in-memory datastores.",
+    "tags": [
+      "redis",
+      "in-memory",
+      "database"
+    ],
+    "category": "Databases",
+    "pricing": "free",
+    "url": "https://dragonflydb.io"
+  },
+  {
+    "id": 285,
+    "name": "SurrealDB",
+    "description": "Scalable, distributed, collaborative, document-graph database for modern apps.",
+    "tags": [
+      "database",
+      "document",
+      "graph"
+    ],
+    "category": "Databases",
+    "pricing": "freemium",
+    "url": "https://surrealdb.com"
+  },
+  {
+    "id": 286,
+    "name": "CockroachDB",
+    "description": "Cloud-native distributed SQL database designed for indestructible applications.",
+    "tags": [
+      "sql",
+      "cloud-native",
+      "distributed"
+    ],
+    "category": "Databases",
+    "pricing": "freemium",
+    "url": "https://cockroachlabs.com"
+  },
+  {
+    "id": 287,
+    "name": "CrateDB",
+    "description": "Distributed SQL database optimized for real-time analytics and IoT data.",
+    "tags": [
+      "sql",
+      "analytics",
+      "real-time"
+    ],
+    "category": "Databases",
+    "pricing": "freemium",
+    "url": "https://cratedb.com"
+  },
+  {
+    "id": 288,
+    "name": "Dolt",
+    "description": "A SQL database with Git-like version control for data, allowing you to branch and merge tables.",
+    "tags": [
+      "database",
+      "git",
+      "version-control"
+    ],
+    "category": "Databases",
+    "pricing": "freemium",
+    "url": "https://dolthub.com"
+  },
+  {
+    "id": 289,
+    "name": "Timescale",
+    "description": "Open-source time-series SQL database optimized for fast ingest and complex queries.",
+    "tags": [
+      "time-series",
+      "sql",
+      "database"
+    ],
+    "category": "Databases",
+    "pricing": "freemium",
+    "url": "https://timescale.com"
+  },
+  {
+    "id": 290,
+    "name": "Neon",
+    "description": "Serverless Postgres platform designed to help you build reliable and scalable apps.",
+    "tags": [
+      "serverless",
+      "postgres",
+      "database"
+    ],
+    "category": "Databases",
+    "pricing": "freemium",
+    "url": "https://neon.tech"
+  },
+  {
+    "id": 291,
+    "name": "Pulumi",
+    "description": "Universal Infrastructure as Code platform to build, deploy, and manage cloud infrastructure.",
+    "tags": [
+      "iac",
+      "infrastructure",
+      "devops"
+    ],
+    "category": "Deployment",
+    "pricing": "freemium",
+    "url": "https://pulumi.com"
+  },
+  {
+    "id": 292,
+    "name": "Porter",
+    "description": "Modern Platform as a Service (PaaS) that runs directly in your own cloud provider.",
+    "tags": [
+      "paas",
+      "deployment",
+      "cloud"
+    ],
+    "category": "Deployment",
+    "pricing": "freemium",
+    "url": "https://porter.run"
+  },
+  {
+    "id": 293,
+    "name": "Multy",
+    "description": "Open-source tool to easily deploy and manage multi-cloud infrastructure.",
+    "tags": [
+      "multi-cloud",
+      "infrastructure",
+      "devops"
+    ],
+    "category": "Deployment",
+    "pricing": "free",
+    "url": "https://multy.dev"
+  },
+  {
+    "id": 294,
+    "name": "Dokku",
+    "description": "Docker-powered mini-Heroku PaaS that helps you build and manage the lifecycle of applications.",
+    "tags": [
+      "paas",
+      "docker",
+      "deployment"
+    ],
+    "category": "Deployment",
+    "pricing": "free",
+    "url": "https://dokku.com"
+  },
+  {
+    "id": 295,
+    "name": "Space Cloud",
+    "description": "Serverless cloud deployment platform providing a unified API for your databases.",
+    "tags": [
+      "serverless",
+      "kubernetes",
+      "backend"
+    ],
+    "category": "Deployment",
+    "pricing": "free",
+    "url": "https://spaceuptech.com"
+  },
+  {
+    "id": 296,
+    "name": "Qovery",
+    "description": "The simplest way to deploy your apps on AWS, acting as an internal developer platform.",
+    "tags": [
+      "paas",
+      "aws",
+      "deployment"
+    ],
+    "category": "Deployment",
+    "pricing": "freemium",
+    "url": "https://qovery.com"
+  },
+  {
+    "id": 297,
+    "name": "Plasmic",
+    "description": "Visual page builder and web design tool that integrates with any tech stack.",
+    "tags": [
+      "visual-builder",
+      "design",
+      "frontend"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://plasmic.app"
+  },
+  {
+    "id": 298,
+    "name": "Steampipe",
+    "description": "Open-source CLI to query cloud infrastructure, APIs, and code using SQL.",
+    "tags": [
+      "sql",
+      "cloud",
+      "api"
+    ],
+    "category": "Developer Tools",
+    "pricing": "free",
+    "url": "https://steampipe.io"
+  },
+  {
+    "id": 299,
+    "name": "Amplication",
+    "description": "Open-source backend development tool that generates robust Node.js applications.",
+    "tags": [
+      "backend",
+      "nodejs",
+      "graphql"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://amplication.com"
+  },
+  {
+    "id": 300,
+    "name": "Gravitee.io",
+    "description": "Open-source API management platform and gateway for securing and governing APIs.",
+    "tags": [
+      "api-management",
+      "gateway",
+      "security"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://gravitee.io"
+  },
+  {
+    "id": 301,
+    "name": "Hasura",
+    "description": "Provides instant realtime GraphQL APIs over your existing databases.",
+    "tags": [
+      "graphql",
+      "api",
+      "database"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://hasura.io"
+  },
+  {
+    "id": 302,
+    "name": "Beekeeper Studio",
+    "description": "Modern, easy-to-use, and cross-platform SQL client and database GUI.",
+    "tags": [
+      "sql-client",
+      "database",
+      "gui"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://beekeeperstudio.io"
+  },
+  {
+    "id": 303,
+    "name": "Rowy",
+    "description": "Build backend prototypes that scale on Google Cloud Platform with an Airtable-like UI.",
+    "tags": [
+      "low-code",
+      "database",
+      "gcp"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://rowy.io"
+  },
+  {
+    "id": 304,
+    "name": "WunderGraph",
+    "description": "Next-generation API developer platform to integrate multiple APIs into a single endpoint.",
+    "tags": [
+      "api",
+      "graphql",
+      "developer-tools"
+    ],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://wundergraph.com"
+  },
+  {
+    "id": 305,
+    "name": "Jina",
+    "description": "Neural Search Ecosystem for building cloud-native multimodal search pipelines.",
+    "tags": [
+      "search",
+      "ai",
+      "neural-network"
+    ],
+    "category": "Enterprise Search",
+    "pricing": "freemium",
+    "url": "https://jina.ai"
+  },
+  {
+    "id": 306,
+    "name": "PhotoPrism",
+    "description": "AI-powered photos application for the decentralized web to manage photo collections.",
+    "tags": [
+      "photos",
+      "hosting",
+      "ai"
+    ],
+    "category": "File Hosting",
+    "pricing": "free",
+    "url": "https://photoprism.app"
+  },
+  {
+    "id": 307,
+    "name": "Filestash",
+    "description": "A web file manager that lets you manage your data anywhere it is located.",
+    "tags": [
+      "file-manager",
+      "storage",
+      "cloud"
+    ],
+    "category": "File Hosting",
+    "pricing": "free",
+    "url": "https://filestash.app"
+  },
+  {
+    "id": 308,
+    "name": "Spacedrive",
+    "description": "An open-source file explorer from the future that works across all your devices.",
+    "tags": [
+      "file-explorer",
+      "storage",
+      "sync"
+    ],
+    "category": "File Hosting",
+    "pricing": "free",
+    "url": "https://spacedrive.com"
+  },
+  {
+    "id": 309,
+    "name": "Owncloud",
+    "description": "Open-source file sync, share, and content collaboration software for teams.",
+    "tags": [
+      "cloud",
+      "storage",
+      "collaboration"
+    ],
+    "category": "File Hosting",
+    "pricing": "freemium",
+    "url": "https://owncloud.com"
+  },
+  {
+    "id": 310,
+    "name": "MyBB",
+    "description": "Free and open-source forum software that brings communities together online.",
+    "tags": [
+      "forum",
+      "community",
+      "bulletin-board"
+    ],
+    "category": "Forums",
+    "pricing": "free",
+    "url": "https://mybb.com"
+  },
+  {
+    "id": 311,
+    "name": "Vanilla Forums",
+    "description": "Highly customizable, enterprise-level community and discussion forum software.",
+    "tags": [
+      "forum",
+      "community",
+      "support"
+    ],
+    "category": "Forums",
+    "pricing": "freemium",
+    "url": "https://vanillaforums.com"
+  },
+  {
+    "id": 312,
+    "name": "Forem",
+    "description": "Open-source software for empowering communities, created by the team behind DEV.",
+    "tags": [
+      "community",
+      "platform",
+      "social"
+    ],
+    "category": "Forums",
+    "pricing": "free",
+    "url": "https://forem.com"
+  },
+  {
+    "id": 313,
+    "name": "Talkyard",
+    "description": "Community discussion platform combining forum software with chat functionality.",
+    "tags": [
+      "forum",
+      "chat",
+      "community"
+    ],
+    "category": "Forums",
+    "pricing": "freemium",
+    "url": "https://talkyard.io"
+  },
+  {
+    "id": 314,
+    "name": "NodeBB",
+    "description": "Modern, Node.js based forum software built for the real-time web.",
+    "tags": [
+      "forum",
+      "nodejs",
+      "real-time"
+    ],
+    "category": "Forums",
+    "pricing": "freemium",
+    "url": "https://nodebb.org"
+  },
+  {
+    "id": 315,
+    "name": "Discourse",
+    "description": "A modern, open-source platform for community discussion and mailing lists.",
+    "tags": [
+      "forum",
+      "community",
+      "discussion"
+    ],
+    "category": "Forums",
+    "pricing": "freemium",
+    "url": "https://discourse.org"
+  },
+  {
+    "id": 316,
+    "name": "Flarum",
+    "description": "Delightfully simple forum software for building great online communities.",
+    "tags": [
+      "forum",
+      "community",
+      "software"
+    ],
+    "category": "Forums",
+    "pricing": "free",
+    "url": "https://flarum.org"
+  },
+  {
+    "id": 317,
+    "name": "Erxes",
+    "description": "Open-source experience operating system to grow your business better and faster.",
+    "tags": [
+      "marketing",
+      "sales",
+      "crm"
+    ],
+    "category": "Growth and Marketing",
+    "pricing": "freemium",
+    "url": "https://erxes.io"
+  },
+  {
+    "id": 318,
+    "name": "Chaskiq",
+    "description": "Open-source messaging platform for marketing, customer support, and sales.",
+    "tags": [
+      "messaging",
+      "support",
+      "marketing"
+    ],
+    "category": "Growth and Marketing",
+    "pricing": "free",
+    "url": "https://chaskiq.io"
+  },
+  {
+    "id": 319,
+    "name": "Mautic",
+    "description": "Open-source marketing automation software designed to empower businesses.",
+    "tags": [
+      "marketing",
+      "automation",
+      "campaigns"
+    ],
+    "category": "Growth and Marketing",
+    "pricing": "free",
+    "url": "https://mautic.org"
+  },
+  {
+    "id": 320,
+    "name": "Dub",
+    "description": "Open-source link management tool with advanced analytics and custom domains.",
+    "tags": [
+      "links",
+      "marketing",
+      "analytics"
+    ],
+    "category": "Growth and Marketing",
+    "pricing": "freemium",
+    "url": "https://dub.co"
+  },
+  {
+    "id": 321,
+    "name": "Budibase",
+    "description": "An open-source low-code platform for creating internal apps and tools in minutes.",
+    "tags": [
+      "low-code",
+      "internal-tools",
+      "development"
+    ],
+    "category": "Internal Tools",
+    "pricing": "freemium",
+    "url": "https://budibase.com"
+  },
+  {
+    "id": 322,
+    "name": "ToolJet",
+    "description": "Extensible low-code framework for building custom business applications fast.",
+    "tags": [
+      "low-code",
+      "internal-tools",
+      "framework"
+    ],
+    "category": "Internal Tools",
+    "pricing": "freemium",
+    "url": "https://tooljet.com"
+  },
+  {
+    "id": 323,
+    "name": "Lowdefy",
+    "description": "An open-source tool to build internal tools and web apps using YAML configurations.",
+    "tags": [
+      "yaml",
+      "internal-tools",
+      "low-code"
+    ],
+    "category": "Internal Tools",
+    "pricing": "free",
+    "url": "https://lowdefy.com"
+  },
+  {
+    "id": 324,
+    "name": "Kern AI",
+    "description": "Open-source, data-centric IDE for natural language processing and text annotation.",
+    "tags": [
+      "nlp",
+      "machine-learning",
+      "ide"
+    ],
+    "category": "Machine Learning",
+    "pricing": "freemium",
+    "url": "https://kern.ai"
+  },
+  {
+    "id": 325,
+    "name": "Evidently",
+    "description": "Evaluate and monitor machine learning models from validation to production.",
+    "tags": [
+      "ml-monitoring",
+      "data-quality",
+      "ai"
+    ],
+    "category": "Machine Learning",
+    "pricing": "free",
+    "url": "https://evidentlyai.com"
+  },
+  {
+    "id": 326,
+    "name": "Cleanlab",
+    "description": "Standard data-centric AI package for data quality and ML with messy real-world data.",
+    "tags": [
+      "data-quality",
+      "machine-learning",
+      "ai"
+    ],
+    "category": "Machine Learning",
+    "pricing": "freemium",
+    "url": "https://cleanlab.ai"
+  },
+  {
+    "id": 327,
+    "name": "PostgresML",
+    "description": "An end-to-end machine learning system integrated directly into PostgreSQL.",
+    "tags": [
+      "database",
+      "machine-learning",
+      "postgres"
+    ],
+    "category": "Machine Learning",
+    "pricing": "freemium",
+    "url": "https://postgresml.org"
+  },
+  {
+    "id": 328,
+    "name": "Rubrix",
+    "description": "Open-source framework for data-centric NLP, offering data annotation and monitoring.",
+    "tags": [
+      "nlp",
+      "annotation",
+      "data-science"
+    ],
+    "category": "Machine Learning",
+    "pricing": "free",
+    "url": "https://argilla.io"
+  },
+  {
+    "id": 329,
+    "name": "MindsDB",
+    "description": "In-database machine learning platform connecting AI models to your data sources.",
+    "tags": [
+      "machine-learning",
+      "database",
+      "ai"
+    ],
+    "category": "Machine Learning",
+    "pricing": "freemium",
+    "url": "https://mindsdb.com"
+  },
+  {
+    "id": 330,
+    "name": "Checkly",
+    "description": "Delightful active monitoring and end-to-end testing platform for modern developers.",
+    "tags": [
+      "monitoring",
+      "testing",
+      "api"
+    ],
+    "category": "Monitoring",
+    "pricing": "freemium",
+    "url": "https://checklyhq.com"
+  },
+  {
+    "id": 331,
+    "name": "Helicone",
+    "description": "LLM observability and monitoring platform purpose-built for AI developers.",
+    "tags": [
+      "llm",
+      "observability",
+      "monitoring"
+    ],
+    "category": "Monitoring",
+    "pricing": "freemium",
+    "url": "https://helicone.ai"
+  },
+  {
+    "id": 332,
+    "name": "Icinga",
+    "description": "A resilient, open-source monitoring and metric solution system for IT infrastructure.",
+    "tags": [
+      "infrastructure",
+      "monitoring",
+      "metrics"
+    ],
+    "category": "Monitoring",
+    "pricing": "free",
+    "url": "https://icinga.com"
+  },
+  {
+    "id": 333,
+    "name": "Exo",
+    "description": "A process manager and log viewer designed specifically for developer environments.",
+    "tags": [
+      "process-manager",
+      "logs",
+      "development"
+    ],
+    "category": "Monitoring",
+    "pricing": "free",
+    "url": "https://exo.deref.io/"
+  },
+  {
+    "id": 334,
+    "name": "Zabbix",
+    "description": "Real-time monitoring of IT components and services, such as networks, servers, and cloud.",
+    "tags": [
+      "monitoring",
+      "infrastructure",
+      "networks"
+    ],
+    "category": "Monitoring",
+    "pricing": "free",
+    "url": "https://zabbix.com"
+  },
+  {
+    "id": 335,
+    "name": "Bitbucket",
+    "description": "Atlassian's cloud-hosted SaaS for Git repositories with built-in CI/CD and Jira integration.",
+    "tags": ["git", "version-control", "ci-cd"],
+    "category": "Version Control",
+    "pricing": "freemium",
+    "url": "https://bitbucket.org"
+  },
+  {
+    "id": 336,
+    "name": "Simul Docs",
+    "description": "Cloud-based version control SaaS specifically built for collaborating on Microsoft Word documents.",
+    "tags": ["version-control", "documents", "collaboration"],
+    "category": "Version Control",
+    "pricing": "freemium",
+    "url": "https://www.simuldocs.com"
+  },
+  {
+    "id": 337,
+    "name": "Unity Version Control",
+    "description": "Scalable version control system optimized for game development and managing large binary files.",
+    "tags": ["version-control", "gamedev", "unity"],
+    "category": "Version Control",
+    "pricing": "freemium",
+    "url": "https://unity.com/products/version-control"
+  },
+  {
+    "id": 338,
+    "name": "Microsoft Teams",
+    "description": "Unified communication and collaboration platform combining video meetings, workplace chat, and file storage.",
+    "tags": ["video-conference", "collaboration", "enterprise"],
+    "category": "Video Conference",
+    "pricing": "freemium",
+    "url": "https://www.microsoft.com/en-us/microsoft-teams"
+  },
+  {
+    "id": 339,
+    "name": "Google Meet",
+    "description": "Secure, enterprise-grade video conferencing and virtual meeting platform by Google.",
+    "tags": ["video-conference", "meetings", "google"],
+    "category": "Video Conference",
+    "pricing": "freemium",
+    "url": "https://meet.google.com"
+  },
+  {
+    "id": 340,
+    "name": "Cisco Webex",
+    "description": "Enterprise solution for video conferencing, online meetings, screen share, and webinars.",
+    "tags": ["enterprise", "video-conference", "webinars"],
+    "category": "Video Conference",
+    "pricing": "freemium",
+    "url": "https://www.webex.com"
+  },
+  {
+    "id": 341,
+    "name": "GoToMeeting",
+    "description": "Fast, reliable, and secure online meeting software and video conferencing solution.",
+    "tags": ["video-conference", "business", "meetings"],
+    "category": "Video Conference",
+    "pricing": "paid",
+    "url": "https://www.goto.com/meeting"
+  },
+  {
+    "id": 342,
+    "name": "Whereby",
+    "description": "Browser-based video meetings with no app or software downloads required.",
+    "tags": ["browser-based", "video", "meetings"],
+    "category": "Video Conference",
+    "pricing": "freemium",
+    "url": "https://whereby.com"
+  },
+  {
+    "id": 343,
+    "name": "RingCentral",
+    "description": "Cloud-based communication and collaboration platform with message, video, and phone.",
+    "tags": ["ucaas", "voip", "communication"],
+    "category": "Communication",
+    "pricing": "paid",
+    "url": "https://www.ringcentral.com"
+  },
+  {
+    "id": 344,
+    "name": "Dialpad",
+    "description": "AI-powered cloud communication platform covering voice, video, messages, and contact center.",
+    "tags": ["ai", "voip", "communication"],
+    "category": "Communication",
+    "pricing": "paid",
+    "url": "https://www.dialpad.com"
+  },
+  {
+    "id": 345,
+    "name": "Discord",
+    "description": "Voice, video, and text chat app originally built for gamers, now widely used by communities.",
+    "tags": ["voice-chat", "community", "gaming"],
+    "category": "Communication",
+    "pricing": "freemium",
+    "url": "https://discord.com"
+  },
+  {
+    "id": 346,
+    "name": "StreamYard",
+    "description": "Live streaming studio in your browser to broadcast directly to Facebook, YouTube, and LinkedIn.",
+    "tags": ["live-streaming", "broadcast", "studio"],
+    "category": "Streaming & Media",
+    "pricing": "freemium",
+    "url": "https://streamyard.com"
+  },
+  {
+    "id": 347,
+    "name": "Restream",
+    "description": "Multistreaming service that allows you to stream live video to over 30 platforms simultaneously.",
+    "tags": ["multistream", "live-video", "broadcasting"],
+    "category": "Streaming & Media",
+    "pricing": "freemium",
+    "url": "https://restream.io"
+  },
+  {
+    "id": 348,
+    "name": "Airmeet",
+    "description": "Virtual event platform to host interactive webinars, conferences, and networking events.",
+    "tags": ["virtual-events", "webinars", "networking"],
+    "category": "Virtual Events",
+    "pricing": "freemium",
+    "url": "https://www.airmeet.com"
+  },
+  {
+    "id": 349,
+    "name": "Livestorm",
+    "description": "End-to-end video engagement platform for hosting webinars and online meetings.",
+    "tags": ["webinars", "video", "engagement"],
+    "category": "Virtual Events",
+    "pricing": "freemium",
+    "url": "https://livestorm.co"
+  },
+  {
+    "id": 350,
+    "name": "Butter",
+    "description": "All-in-one tool for planning and hosting highly engaging, collaborative virtual sessions.",
+    "tags": ["collaboration", "workshops", "video"],
+    "category": "Video Conference",
+    "pricing": "freemium",
+    "url": "https://www.butter.us"
+  },
+  {
+    "id": 351,
+    "name": "Gather",
+    "description": "Video-calling space that lets multiple people hold separate conversations in parallel within a 2D map.",
+    "tags": ["virtual-office", "metaverse", "video"],
+    "category": "Communication",
+    "pricing": "freemium",
+    "url": "https://www.gather.town"
+  },
+  {
+    "id": 352,
+    "name": "Around",
+    "description": "Video calls designed for hybrid-remote teams with unintrusive floating video bubbles.",
+    "tags": ["video-calls", "hybrid-work", "collaboration"],
+    "category": "Video Conference",
+    "pricing": "freemium",
+    "url": "https://www.around.co"
+  },
+  {
+    "id": 353,
+    "name": "Otter.ai",
+    "description": "AI meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.",
+    "tags": ["ai", "transcription", "meetings"],
+    "category": "Productivity",
+    "pricing": "freemium",
+    "url": "https://otter.ai"
+  },
+  {
+    "id": 354,
+    "name": "Fireflies.ai",
+    "description": "AI voice assistant that helps transcribe, take notes, and complete actions during meetings.",
+    "tags": ["ai", "meeting-notes", "transcription"],
+    "category": "Productivity",
+    "pricing": "freemium",
+    "url": "https://fireflies.ai"
+  },
+  {
+    "id": 355,
+    "name": "Fathom",
+    "description": "Free AI meeting assistant that records, transcribes, highlights, and summarizes your calls.",
+    "tags": ["ai", "meetings", "summarization"],
+    "category": "Productivity",
+    "pricing": "freemium",
+    "url": "https://fathom.video"
+  },
+  {
+    "id": 356,
+    "name": "Loom",
+    "description": "Video messaging tool that helps you get your message across through instantly shareable videos.",
+    "tags": ["async-video", "messaging", "screen-recording"],
+    "category": "Productivity",
+    "pricing": "freemium",
+    "url": "https://www.loom.com"
+  },
+  {
+    "id": 357,
+    "name": "Vidyard",
+    "description": "Video tools built for sales and marketing professionals to record and send personalized videos.",
+    "tags": ["sales", "video-hosting", "marketing"],
+    "category": "Streaming & Media",
+    "pricing": "freemium",
+    "url": "https://www.vidyard.com"
+  },
+  {
+    "id": 358,
+    "name": "Wistia",
+    "description": "Video marketing software to create, host, and measure the impact of your video content.",
+    "tags": ["video-hosting", "marketing", "analytics"],
+    "category": "Streaming & Media",
+    "pricing": "freemium",
+    "url": "https://wistia.com"
+  },
+  {
+    "id": 359,
+    "name": "Riverside.fm",
+    "description": "High-quality podcast and video recording software that records lossless audio and 4K video locally.",
+    "tags": ["recording", "podcasts", "studio"],
+    "category": "Streaming & Media",
+    "pricing": "freemium",
+    "url": "https://riverside.fm"
+  },
+  {
+    "id": 360,
+    "name": "Mmhmm",
+    "description": "Video app that helps you create engaging presentations and communicate effectively on video.",
+    "tags": ["presentations", "video", "broadcasting"],
+    "category": "Streaming & Media",
+    "pricing": "freemium",
+    "url": "https://www.mmhmm.app"
+  },
+  {
+    "id": 361,
+    "name": "Vimeo",
+    "description": "Professional video hosting, sharing, and services platform for high-definition video.",
+    "tags": ["video-hosting", "streaming", "creators"],
+    "category": "Streaming & Media",
+    "pricing": "freemium",
+    "url": "https://vimeo.com"
+  },
+  {
+    "id": 362,
+    "name": "Agora",
+    "description": "Real-time engagement platform offering video, voice, and interactive live streaming APIs.",
+    "tags": ["api", "video-api", "real-time"],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://www.agora.io"
+  },
+  {
+    "id": 363,
+    "name": "Daily",
+    "description": "WebRTC video and audio APIs to build scalable, high-quality video into any app.",
+    "tags": ["webrtc", "api", "video"],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://www.daily.co"
+  },
+  {
+    "id": 364,
+    "name": "Mux",
+    "description": "Video infrastructure API providing live streaming, on-demand hosting, and analytics.",
+    "tags": ["video-infrastructure", "api", "streaming"],
+    "category": "Developer Tools",
+    "pricing": "paid",
+    "url": "https://mux.com"
+  },
+  {
+    "id": 365,
+    "name": "100ms",
+    "description": "Live video infrastructure designed to help developers build and scale video conferencing apps.",
+    "tags": ["video-api", "infrastructure", "sdk"],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://www.100ms.live"
+  },
+  {
+    "id": 366,
+    "name": "Demio",
+    "description": "Hassle-free webinar platform built specifically to help marketers generate leads and drive sales.",
+    "tags": ["webinars", "marketing", "events"],
+    "category": "Virtual Events",
+    "pricing": "paid",
+    "url": "https://demio.com"
+  },
+  {
+    "id": 367,
+    "name": "Cvent",
+    "description": "Enterprise event management platform covering in-person, virtual, and hybrid events.",
+    "tags": ["event-management", "enterprise", "virtual-events"],
+    "category": "Virtual Events",
+    "pricing": "paid",
+    "url": "https://www.cvent.com"
+  }
+
+]
