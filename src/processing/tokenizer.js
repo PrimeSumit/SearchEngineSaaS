@@ -1,7 +1,6 @@
 import tools from "../../data/tools_clean.json" with { type: "json" };
 
-const text = "zoom!!! meeting-app??";
-function tokentize(text) {
+export default function tokenize(text) {
   const token = text
     .toLowerCase()
     .replace(/[^a-z0-9 ]/g, " ")
@@ -10,5 +9,3 @@ function tokentize(text) {
 
   return token;
 }
-const result = tokentize(text);
-console.log(result);
