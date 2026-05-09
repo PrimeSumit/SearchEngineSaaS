@@ -15,7 +15,5 @@ tools.forEach((tool) => {
     } else {
       invertedIndex[token].push(tool.id);
     }
-
-    console.log(invertedIndex[token]);
   });
 });
