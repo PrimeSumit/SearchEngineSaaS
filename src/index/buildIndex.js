@@ -11,7 +11,11 @@ tools.forEach((tool) => {
     if (invertedIndex[token] == null) {
       invertedIndex[token] = [];
     }
-    invertedIndex[token].push(tool.id);
-    console.log(token, invertedIndex[token]);
+    if (invertedIndex[token].includes(tool.id)) {
+    } else {
+      invertedIndex[token].push(tool.id);
+    }
+
+    console.log(invertedIndex[token]);
   });
 });
