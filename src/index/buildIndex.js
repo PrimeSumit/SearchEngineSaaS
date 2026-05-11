@@ -7,7 +7,7 @@ export default invertedIndex;
 tools.forEach((tool) => {
   const searchText = `${tool.name} ${tool.description} ${tool.category} ${tool.tags.join(" ")}`;
   const tokens = tokenize(searchText);
-  console.log(tokens);
+
   tokens.forEach((token) => {
     if (invertedIndex[token] == null) {
       invertedIndex[token] = [];
