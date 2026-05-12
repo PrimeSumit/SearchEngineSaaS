@@ -9,7 +9,7 @@ tools.forEach((tool) => {
   const tokens = tokenize(searchText);
 
   tokens.forEach((token) => {
-    if (invertedIndex[token] == null) {
+    if (!invertedIndex[token]) {
       invertedIndex[token] = [];
     }
     if (invertedIndex[token].includes(tool.id)) {
