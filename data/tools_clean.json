@@ -3315,28 +3315,1224 @@
     "id": 369,
     "name": "Spotify",
     "description": "Music and podcast streaming platform",
-    "tags": [
-      "music",
-      "audio",
-      "streaming",
-      "podcasts"
-    ],
+    "tags": ["music", "audio", "streaming", "podcasts"],
     "category": "Entertainment",
     "pricing": "freemium",
     "url": "https://spotify.com"
   },
-   {
+  {
     "id": 370,
     "name": "Dropbox",
     "description": "Cloud storage and file sharing platform",
-    "tags": [
-      "cloud",
-      "storage",
-      "files",
-      "backup"
-    ],
+    "tags": ["cloud", "storage", "files", "backup"],
     "category": "Storage",
     "pricing": "freemium",
     "url": "https://dropbox.com"
+  },
+  {
+    "id": 371,
+    "name": "Cyera",
+    "description": "AI-native data security platform providing visibility into data usage and risk reduction.",
+    "tags": ["data-security", "ai", "compliance"],
+    "category": "Data Security",
+    "pricing": "paid",
+    "url": "https://www.cyera.io"
+  },
+  {
+    "id": 372,
+    "name": "Smartsheet",
+    "description": "Modern work management platform for project management, process automation, and workflow scaling.",
+    "tags": ["project-management", "collaboration", "workflow"],
+    "category": "Work Management",
+    "pricing": "freemium",
+    "url": "https://www.smartsheet.com"
+  },
+  {
+    "id": 373,
+    "name": "CertifyMe",
+    "description": "Digital credential management platform for creating tamper-proof verifiable documents.",
+    "tags": ["credentials", "security", "digital-documents"],
+    "category": "Digital Management",
+    "pricing": "paid",
+    "url": "https://www.certifyme.online"
+  },
+  {
+    "id": 374,
+    "name": "Runrun.it",
+    "description": "Work collaboration software focused on productivity through task, time, and talent management.",
+    "tags": ["productivity", "collaboration", "time-tracking"],
+    "category": "Productivity",
+    "pricing": "freemium",
+    "url": "https://runrun.it"
+  },
+  {
+    "id": 375,
+    "name": "Acronis",
+    "description": "Integrated backup, anti-malware, and endpoint protection management for service providers.",
+    "tags": ["backup", "cybersecurity", "endpoint-protection"],
+    "category": "Cloud Security",
+    "pricing": "paid",
+    "url": "https://www.acronis.com"
+  },
+  {
+    "id": 376,
+    "name": "Axonom",
+    "description": "Configure, price, and quote technology with mobile extendibility and visual product customization.",
+    "tags": ["sales", "cpq", "ecommerce"],
+    "category": "Sales",
+    "pricing": "paid",
+    "url": "https://www.axonom.com"
+  },
+  {
+    "id": 377,
+    "name": "Frontegg",
+    "description": "Customer identity and access management platform for SaaS companies to integrate auth and SSO.",
+    "tags": ["auth", "sso", "identity-management"],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://frontegg.com"
+  },
+  {
+    "id": 378,
+    "name": "ShiftWizard",
+    "description": "Workforce management and scheduling solution specifically designed for healthcare professionals.",
+    "tags": ["scheduling", "healthcare", "workforce-management"],
+    "category": "Healthcare",
+    "pricing": "paid",
+    "url": "https://www.healthstream.com/solutions/scheduling"
+  },
+  {
+    "id": 379,
+    "name": "Storylane",
+    "description": "Interactive demo platform for marketing and sales to build self-guided product tours.",
+    "tags": ["demos", "marketing", "sales-enablement"],
+    "category": "Sales & Marketing",
+    "pricing": "freemium",
+    "url": "https://www.storylane.io"
+  },
+  {
+    "id": 380,
+    "name": "Prismatic",
+    "description": "Embedded iPaaS helping B2B SaaS teams launch product integrations faster with low-code tools.",
+    "tags": ["ipaas", "integrations", "b2b"],
+    "category": "Developer Tools",
+    "pricing": "paid",
+    "url": "https://prismatic.io"
+  },
+  {
+    "id": 381,
+    "name": "Second Nature AI",
+    "description": "AI-driven sales coaching software providing a virtual pitch partner for sales reps.",
+    "tags": ["ai", "sales-coaching", "training"],
+    "category": "AI",
+    "pricing": "paid",
+    "url": "https://secondnature.ai"
+  },
+  {
+    "id": 382,
+    "name": "CrashPlan",
+    "description": "Data resilience platform providing cloud-native backup and recovery for endpoints and servers.",
+    "tags": ["backup", "data-resilience", "cloud-storage"],
+    "category": "Cloud Security",
+    "pricing": "paid",
+    "url": "https://www.crashplan.com"
+  },
+  {
+    "id": 383,
+    "name": "Albato",
+    "description": "No-code platform to connect cloud apps and automate business processes across 800+ integrations.",
+    "tags": ["automation", "no-code", "integrations"],
+    "category": "Productivity",
+    "pricing": "freemium",
+    "url": "https://albato.com"
+  },
+  {
+    "id": 384,
+    "name": "WorkInSync",
+    "description": "Workplace management solution for desk booking, meeting rooms, and attendance management.",
+    "tags": ["hybrid-work", "office-management", "scheduling"],
+    "category": "Workplace",
+    "pricing": "freemium",
+    "url": "https://www.workinsync.io"
+  },
+  {
+    "id": 385,
+    "name": "LumApps",
+    "description": "Employee experience platform integrated with Google Workspace and Microsoft 365 for communication.",
+    "tags": ["hr", "employee-experience", "communication"],
+    "category": "Human Resources",
+    "pricing": "paid",
+    "url": "https://www.lumapps.com"
+  },
+  {
+    "id": 386,
+    "name": "TextCortex",
+    "description": "AI writing assistant designed to generate domain-specific text and product descriptions.",
+    "tags": ["ai-writing", "content-generation", "copywriting"],
+    "category": "AI",
+    "pricing": "freemium",
+    "url": "https://textcortex.com"
+  },
+  {
+    "id": 387,
+    "name": "Netcore",
+    "description": "Customer engagement platform offering AI-powered personalization and omnichannel communication.",
+    "tags": ["marketing", "personalization", "customer-journey"],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://netcorecloud.com"
+  },
+  {
+    "id": 388,
+    "name": "ScreenCloud",
+    "description": "SaaS solution for enabling digital signage on any screen using consumer-grade hardware.",
+    "tags": ["digital-signage", "marketing", "hardware-integration"],
+    "category": "Marketing",
+    "pricing": "freemium",
+    "url": "https://screencloud.com"
+  },
+  {
+    "id": 389,
+    "name": "Zertify",
+    "description": "Inspection management software covering the full certification life cycle for the TIC sector.",
+    "tags": ["inspection", "compliance", "certification"],
+    "category": "Compliance",
+    "pricing": "paid",
+    "url": "https://zertify.com"
+  },
+  {
+    "id": 390,
+    "name": "OnBlick",
+    "description": "HR and immigration compliance SaaS for digital onboarding and employee verification.",
+    "tags": ["hr-compliance", "immigration", "onboarding"],
+    "category": "Human Resources",
+    "pricing": "paid",
+    "url": "https://www.onblick.com"
+  },
+  {
+    "id": 391,
+    "name": "Cynet",
+    "description": "Autonomous XDR platform converging endpoint protection, network analytics, and deception technology.",
+    "tags": ["cybersecurity", "xdr", "threat-detection"],
+    "category": "Cloud Security",
+    "pricing": "paid",
+    "url": "https://www.cynet.com"
+  },
+  {
+    "id": 392,
+    "name": "Floik",
+    "description": "AI-powered platform to create interactive product demos, explainer videos, and step-by-step guides.",
+    "tags": ["demos", "onboarding", "customer-education"],
+    "category": "Sales & Marketing",
+    "pricing": "freemium",
+    "url": "https://www.floik.com"
+  },
+  {
+    "id": 393,
+    "name": "Plerdy",
+    "description": "Conversion rate optimization (CRO) tool featuring heatmaps, session replays, and SEO analytics.",
+    "tags": ["cro", "heatmaps", "seo"],
+    "category": "Marketing",
+    "pricing": "freemium",
+    "url": "https://www.plerdy.com"
+  },
+  {
+    "id": 394,
+    "name": "Productiv",
+    "description": "SaaS management platform providing application engagement analytics and spend management for IT leaders.",
+    "tags": ["saas-management", "analytics", "it-ops"],
+    "category": "SaaS Management",
+    "pricing": "paid",
+    "url": "https://productiv.com"
+  },
+  {
+    "id": 395,
+    "name": "Lappa (Lovat)",
+    "description": "Global tax compliance software for VAT, sales tax reporting, and e-invoicing across 111 countries.",
+    "tags": ["tax", "compliance", "fintech"],
+    "category": "Compliance",
+    "pricing": "paid",
+    "url": "https://lovat.com"
+  },
+  {
+    "id": 396,
+    "name": "Josys",
+    "description": "IT lifecycle management platform that simplifies employee onboarding, offboarding, and SaaS provisioning.",
+    "tags": ["it-management", "saas-ops", "onboarding"],
+    "category": "IT Management",
+    "pricing": "freemium",
+    "url": "https://josys.com"
+  },
+  {
+    "id": 397,
+    "name": "IRIS CARBON",
+    "description": "Cloud-based RegTech platform for XBRL filing, ESG reporting, and disclosure management.",
+    "tags": ["regtech", "compliance", "reporting"],
+    "category": "Compliance",
+    "pricing": "paid",
+    "url": "https://www.iriscarbon.com"
+  },
+  {
+    "id": 398,
+    "name": "Raptor Services",
+    "description": "Personalization engine and Customer Data Platform (CDP) for tailored product recommendations.",
+    "tags": ["personalization", "cdp", "ecommerce"],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://raptorservices.com"
+  },
+  {
+    "id": 399,
+    "name": "Citrix Workspace",
+    "description": "Zero-trust digital workspace providing secure access to internal web apps, SaaS, and virtual apps.",
+    "tags": ["zero-trust", "remote-work", "sso"],
+    "category": "Cloud Security",
+    "pricing": "paid",
+    "url": "https://www.citrix.com/products/citrix-workspace"
+  },
+  {
+    "id": 400,
+    "name": "AvePoint Confidence Platform",
+    "description": "Data management platform for security, governance, and resilience of Microsoft 365 and Salesforce.",
+    "tags": ["data-security", "governance", "microsoft-365"],
+    "category": "Cloud Security",
+    "pricing": "freemium",
+    "url": "https://www.avepoint.com"
+  },
+  {
+    "id": 401,
+    "name": "Locoia",
+    "description": "Automation and iPaaS platform to connect systems, automate processes, and build business dashboards.",
+    "tags": ["ipaas", "automation", "api-integration"],
+    "category": "Productivity",
+    "pricing": "paid",
+    "url": "https://locoia.com"
+  },
+  {
+    "id": 402,
+    "name": "Cleverbridge",
+    "description": "Global ecommerce solution for monetizing SaaS, digital products, and subscription billing.",
+    "tags": ["ecommerce", "payments", "subscriptions"],
+    "category": "E-commerce",
+    "pricing": "paid",
+    "url": "https://www.cleverbridge.com"
+  },
+  {
+    "id": 403,
+    "name": "Cyrisma",
+    "description": "All-in-one cybersecurity risk management platform for vulnerability scanning and data discovery.",
+    "tags": ["cybersecurity", "risk-management", "vulnerability"],
+    "category": "Cloud Security",
+    "pricing": "freemium",
+    "url": "https://cyrisma.com"
+  },
+  {
+    "id": 404,
+    "name": "Inriver",
+    "description": "AI-powered Product Information Management (PIM) platform for omnichannel commerce optimization.",
+    "tags": ["pim", "ecommerce", "product-data"],
+    "category": "E-commerce",
+    "pricing": "paid",
+    "url": "https://www.inriver.com"
+  },
+  {
+    "id": 405,
+    "name": "Nylas",
+    "description": "Cloud APIs for integrating email, calendar, and contacts features into SaaS products.",
+    "tags": ["api", "email", "developer-tools"],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://www.nylas.com"
+  },
+  {
+    "id": 406,
+    "name": "EzyVue",
+    "description": "3D product visualization and augmented reality (AR) platform for eCommerce websites.",
+    "tags": ["3d", "ar", "ecommerce"],
+    "category": "E-commerce",
+    "pricing": "paid",
+    "url": "https://ezyvue.com"
+  },
+  {
+    "id": 407,
+    "name": "Citrix Secure Private Access",
+    "description": "Zero-trust ZTNA solution to provide secure contextual access to corporate applications without VPN.",
+    "tags": ["ztna", "security", "zero-trust"],
+    "category": "Cloud Security",
+    "pricing": "paid",
+    "url": "https://www.citrix.com/products/citrix-secure-private-access"
+  },
+  {
+    "id": 408,
+    "name": "Quable PIM",
+    "description": "Collaborative PIM platform designed to optimize product information and omnichannel distribution.",
+    "tags": ["pim", "ecommerce", "catalog-management"],
+    "category": "E-commerce",
+    "pricing": "paid",
+    "url": "https://www.quable.com"
+  },
+  {
+    "id": 409,
+    "name": "Integration App",
+    "description": "AI-powered integration platform for building customer-facing integrations for SaaS products.",
+    "tags": ["ipaas", "api", "automation"],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://getmembrane.com/"
+  },
+  {
+    "id": 410,
+    "name": "Notiphy",
+    "description": "SaaS-based connected worker platform that improves worker efficiency, quality, and safety for manufacturing operations.",
+    "tags": ["connected-worker", "manufacturing", "operations"],
+    "category": "Operations",
+    "pricing": "paid",
+    "url": "https://notiphy.io"
+  },
+  {
+    "id": 411,
+    "name": "The Reporting Hub",
+    "description": "White-label, no-code platform for delivering Power BI, allowing companies to productize and monetize analytics insights.",
+    "tags": ["power-bi", "analytics", "embedded-bi"],
+    "category": "Data Analytics",
+    "pricing": "paid",
+    "url": "https://thereportinghub.com"
+  },
+  {
+    "id": 412,
+    "name": "Jimo",
+    "description": "Digital adoption platform that helps SaaS teams build onboarding tours, announcements, and surveys without writing code.",
+    "tags": ["digital-adoption", "onboarding", "product-led-growth"],
+    "category": "Product Management",
+    "pricing": "freemium",
+    "url": "https://usejimo.com"
+  },
+  {
+    "id": 413,
+    "name": "Luzmo",
+    "description": "Embedded analytics platform purpose-built for SaaS companies to add dashboards and impactful insights to their products.",
+    "tags": ["embedded-analytics", "data-visualization", "bi"],
+    "category": "Data Analytics",
+    "pricing": "paid",
+    "url": "https://www.luzmo.com"
+  },
+  {
+    "id": 414,
+    "name": "StoreHippo",
+    "description": "AI-first, composable enterprise ecommerce platform built on headless MACH architecture for scale and flexibility.",
+    "tags": ["ecommerce", "headless", "ai-first"],
+    "category": "E-commerce",
+    "pricing": "paid",
+    "url": "https://www.storehippo.com"
+  },
+  {
+    "id": 415,
+    "name": "Pando",
+    "description": "Networked supply chain execution SaaS that helps global businesses digitize and optimize logistics and freight management.",
+    "tags": ["supply-chain", "logistics", "tms"],
+    "category": "Operations",
+    "pricing": "paid",
+    "url": "https://pando.ai"
+  },
+  {
+    "id": 416,
+    "name": "HelpCrunch",
+    "description": "Customer communication platform combining live chat, in-app messenger, and email marketing for online businesses.",
+    "tags": ["live-chat", "customer-support", "help-desk"],
+    "category": "Customer Support",
+    "pricing": "paid",
+    "url": "https://helpcrunch.com"
+  },
+  {
+    "id": 417,
+    "name": "Unlayer",
+    "description": "Embeddable drag-and-drop email and landing page builder designed for seamless integration into SaaS platforms.",
+    "tags": ["email-builder", "developer-tools", "embedded"],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://unlayer.com"
+  },
+  {
+    "id": 418,
+    "name": "Seafile",
+    "description": "Secure, scalable cloud content collaboration and file management solution for enterprise teams.",
+    "tags": ["file-sharing", "collaboration", "storage"],
+    "category": "File Hosting",
+    "pricing": "freemium",
+    "url": "https://www.seafile.com"
+  },
+  {
+    "id": 419,
+    "name": "Launchpad.io",
+    "description": "AI-powered low-code PaaS built for software providers to design, build, and scale multi-tenant SaaS applications.",
+    "tags": ["paas", "low-code", "saas-builder"],
+    "category": "Developer Tools",
+    "pricing": "paid",
+    "url": "https://www.pega.com/products/launchpad"
+  },
+  {
+    "id": 420,
+    "name": "Kinde",
+    "description": "Developer infrastructure providing authentication, user management, feature flags, and billing components.",
+    "tags": ["authentication", "user-management", "infrastructure"],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://kinde.com"
+  },
+  {
+    "id": 421,
+    "name": "FocusRO",
+    "description": "Machine learning-based employee productivity tracking and monitoring SaaS application for non-invasive monitoring.",
+    "tags": ["time-tracking", "productivity", "monitoring"],
+    "category": "Human Resources",
+    "pricing": "paid",
+    "url": "https://focusro.com"
+  },
+  {
+    "id": 422,
+    "name": "Gleap",
+    "description": "Customer support and product feedback platform designed for SaaS companies to manage communication and bug tracking.",
+    "tags": ["bug-tracking", "customer-feedback", "support"],
+    "category": "Customer Support",
+    "pricing": "freemium",
+    "url": "https://gleap.io"
+  },
+  {
+    "id": 423,
+    "name": "Forcepoint Data Security Cloud",
+    "description": "Unified cloud security platform enabling Zero Trust access to web and SaaS applications with data security.",
+    "tags": ["cloud-security", "zero-trust", "dlp"],
+    "category": "Cloud Security",
+    "pricing": "paid",
+    "url": "https://www.forcepoint.com"
+  },
+  {
+    "id": 424,
+    "name": "Cello",
+    "description": "User-led growth platform that enables SaaS products to implement word-of-mouth referral and word-of-mouth marketing.",
+    "tags": ["referral-marketing", "product-led-growth", "advocacy"],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://cello.so"
+  },
+  {
+    "id": 425,
+    "name": "OneHash CRM",
+    "description": "SaaS-based CRM and ERP solution built for streamlining business processes, automation, and pipeline management.",
+    "tags": ["crm", "erp", "accounting"],
+    "category": "CRM",
+    "pricing": "paid",
+    "url": "https://www.onehash.ai"
+  },
+  {
+    "id": 426,
+    "name": "BMC Helix ITSM",
+    "description": "AI-powered IT Service Management suite utilized for automating service requests and IT lifecycle tasks.",
+    "tags": ["itsm", "it-management", "service-desk"],
+    "category": "IT Management",
+    "pricing": "paid",
+    "url": "https://www.bmc.com/it-solutions/bmc-helix-itsm.html"
+  },
+  {
+    "id": 427,
+    "name": "Hyperstack Credential Cloud",
+    "description": "Digital credential management platform for issuing secure certificates and badges to students and recipients.",
+    "tags": ["digital-credentials", "edtech", "certification"],
+    "category": "Education",
+    "pricing": "paid",
+    "url": "https://www.hyperstack.id"
+  },
+  {
+    "id": 428,
+    "name": "servicePath CPQ +",
+    "description": "AI-native enterprise CPQ and revenue lifecycle platform designed for complex technology service providers.",
+    "tags": ["cpq", "revenue-lifecycle", "ai-native"],
+    "category": "Sales",
+    "pricing": "paid",
+    "url": "https://servicepath.com"
+  },
+  {
+    "id": 429,
+    "name": "Eden",
+    "description": "Hybrid office management software featuring visitor management, desk booking, and room scheduling.",
+    "tags": ["office-management", "hybrid-work", "scheduling"],
+    "category": "Operations",
+    "pricing": "paid",
+    "url": "https://www.edenworkplace.com"
+  },
+  {
+    "id": 430,
+    "name": "Paragon",
+    "description": "Embedded integration platform that helps SaaS teams build native, third-party integrations quickly.",
+    "tags": ["ipaas", "api-integration", "developer-tools"],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://www.useparagon.com"
+  },
+  {
+    "id": 431,
+    "name": "Getpin",
+    "description": "AI-powered tool for local SEO and map visibility to help businesses attract nearby customers.",
+    "tags": ["local-seo", "marketing", "ai"],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://getpin.com"
+  },
+  {
+    "id": 432,
+    "name": "Mapp Marketing Cloud",
+    "description": "Insight-led marketing platform combining digital analytics with cross-channel automation.",
+    "tags": ["marketing-cloud", "cdp", "automation"],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://mapp.com"
+  },
+  {
+    "id": 433,
+    "name": "Talent Pathway",
+    "description": "SaaS-based applicant tracking system (ATS) and recruitment software for staffing agencies.",
+    "tags": ["recruiting", "ats", "hiring"],
+    "category": "Human Resources",
+    "pricing": "paid",
+    "url": "https://talentpathway.com"
+  },
+  {
+    "id": 434,
+    "name": "Pricer24",
+    "description": "Business intelligence solution providing market price monitoring and competitor analysis for retailers.",
+    "tags": ["bi", "pricing-strategy", "market-analysis"],
+    "category": "Data Analytics",
+    "pricing": "paid",
+    "url": "https://pricer24.com"
+  },
+  {
+    "id": 435,
+    "name": "Trainn",
+    "description": "Platform for B2B SaaS teams to create interactive product videos and customer training materials.",
+    "tags": ["customer-onboarding", "video-creation", "edtech"],
+    "category": "Customer Support",
+    "pricing": "freemium",
+    "url": "https://trainn.co"
+  },
+  {
+    "id": 436,
+    "name": "Digno",
+    "description": "AI-driven performance management platform that aggregates data for employee evaluations.",
+    "tags": ["performance-management", "productivity", "ai"],
+    "category": "Human Resources",
+    "pricing": "paid",
+    "url": "https://digno.io"
+  },
+  {
+    "id": 437,
+    "name": "Mercans HR Blizz",
+    "description": "Cloud-based global payroll and human capital management (HCM) platform for international businesses.",
+    "tags": ["payroll", "hcm", "global-hr"],
+    "category": "Human Resources",
+    "pricing": "paid",
+    "url": "https://mercans.com"
+  },
+  {
+    "id": 438,
+    "name": "Stibo Systems MDM",
+    "description": "Master Data Management (MDM) solution for managing operational information and product data globally.",
+    "tags": ["mdm", "data-governance", "pim"],
+    "category": "Data Management",
+    "pricing": "paid",
+    "url": "https://www.stibosystems.com"
+  },
+  {
+    "id": 439,
+    "name": "Wirkn",
+    "description": "Video-first frontline hiring platform designed specifically for retail and hospitality recruitment.",
+    "tags": ["hiring", "recruitment", "frontline-workers"],
+    "category": "Human Resources",
+    "pricing": "paid",
+    "url": "https://wirkn.com"
+  },
+  {
+    "id": 440,
+    "name": "Forcepoint Web Security",
+    "description": "Secure web gateway providing real-time content analysis and malware protection for web channels.",
+    "tags": ["web-security", "cybersecurity", "threat-protection"],
+    "category": "Cloud Security",
+    "pricing": "paid",
+    "url": "https://www.forcepoint.com"
+  },
+  {
+    "id": 441,
+    "name": "OneEntry",
+    "description": "Cloud-based platform unifying Headless CMS, Headless eCommerce, and BaaS capabilities.",
+    "tags": ["headless-cms", "baas", "ecommerce"],
+    "category": "Developer Tools",
+    "pricing": "paid",
+    "url": "https://oneentry.cloud"
+  },
+  {
+    "id": 442,
+    "name": "Empeon",
+    "description": "Enterprise-level Payroll and HR solution specifically tailored for the healthcare industry.",
+    "tags": ["payroll", "healthcare", "hris"],
+    "category": "Human Resources",
+    "pricing": "paid",
+    "url": "https://empeon.com"
+  },
+  {
+    "id": 443,
+    "name": "Strac",
+    "description": "Data loss prevention (DLP) software designed to detect and redact sensitive PII across SaaS apps.",
+    "tags": ["dlp", "pii", "data-security"],
+    "category": "Cloud Security",
+    "pricing": "paid",
+    "url": "https://www.strac.io"
+  },
+  {
+    "id": 444,
+    "name": "June Analytics",
+    "description": "Product analytics platform designed for B2B SaaS companies to track activation and retention.",
+    "tags": ["product-analytics", "retention", "b2b"],
+    "category": "Data Analytics",
+    "pricing": "freemium",
+    "url": "https://www.june.so"
+  },
+  {
+    "id": 445,
+    "name": "Microsoft Fabric",
+    "description": "Unified, AI-powered data analytics platform that combines warehousing, engineering, and BI.",
+    "tags": ["data-analytics", "bi", "data-warehouse"],
+    "category": "Data Analytics",
+    "pricing": "paid",
+    "url": "https://www.microsoft.com/en-us/microsoft-fabric"
+  },
+  {
+    "id": 446,
+    "name": "Guideflow",
+    "description": "Interactive product demo and guide platform for sales and personalized onboarding experiences.",
+    "tags": ["demo-automation", "sales", "onboarding"],
+    "category": "Sales & Marketing",
+    "pricing": "freemium",
+    "url": "https://www.guideflow.com"
+  },
+  {
+    "id": 447,
+    "name": "FlexxClient",
+    "description": "Hybrid workspace observability and endpoint management platform for digital employee experience.",
+    "tags": ["dex", "endpoint-management", "it-ops"],
+    "category": "IT Management",
+    "pricing": "paid",
+    "url": "https://flexxible.com"
+  },
+  {
+    "id": 448,
+    "name": "JobNimbus",
+    "description": "Cloud-based CRM and project management tool designed specifically for the roofing and construction industries.",
+    "tags": ["construction", "roofing", "crm"],
+    "category": "Project Management",
+    "pricing": "freemium",
+    "url": "https://www.jobnimbus.com"
+  },
+  {
+    "id": 449,
+    "name": "MarbleFlows",
+    "description": "No-code platform for creating structured customer education and onboarding flows for SMBs.",
+    "tags": ["customer-education", "onboarding", "lms"],
+    "category": "Education",
+    "pricing": "freemium",
+    "url": "https://www.marbleflows.com"
+  },
+  {
+    "id": 450,
+    "name": "GlobalMeet Webcast",
+    "description": "Enterprise cloud-based webcasting platform for large-scale virtual events and high-profile presentations.",
+    "tags": ["webinar", "webcast", "virtual-events"],
+    "category": "Virtual Events",
+    "pricing": "paid",
+    "url": "https://www.globalmeet.com"
+  },
+  {
+    "id": 451,
+    "name": "USU",
+    "description": "IT management and software asset management platform to enhance operational efficiency and visibility.",
+    "tags": ["itam", "sam", "knowledge-management"],
+    "category": "IT Management",
+    "pricing": "paid",
+    "url": "https://www.usu.com"
+  },
+  {
+    "id": 452,
+    "name": "Cotalker",
+    "description": "SaaS for digitizing business processes and automating field operation workflows in global management.",
+    "tags": ["bpm", "field-ops", "automation"],
+    "category": "Operations",
+    "pricing": "paid",
+    "url": "https://www.cotalker.com"
+  },
+  {
+    "id": 453,
+    "name": "Yoizen",
+    "description": "Omnichannel CX platform and AI bot builder for automating marketing, sales, and customer service.",
+    "tags": ["chatbots", "omnichannel", "cx"],
+    "category": "Customer Support",
+    "pricing": "paid",
+    "url": "https://yoizen.com"
+  },
+  {
+    "id": 454,
+    "name": "Ingestro",
+    "description": "AI-powered data onboarding platform that transforms file-based data into clean, actionable information.",
+    "tags": ["data-integration", "ai", "onboarding"],
+    "category": "Developer Tools",
+    "pricing": "paid",
+    "url": "https://ingestro.com"
+  },
+  {
+    "id": 455,
+    "name": "AMLYZE",
+    "description": "Anti-money laundering (AML) compliance suite for fintechs and banks to detect and prevent financial crime.",
+    "tags": ["aml", "compliance", "fintech"],
+    "category": "Compliance",
+    "pricing": "paid",
+    "url": "https://www.amlyze.com"
+  },
+  {
+    "id": 456,
+    "name": "Tagmate",
+    "description": "SaaS for implementing and migrating analytics and marketing tags across platforms like GA4 and GTM.",
+    "tags": ["tag-management", "analytics", "marketing"],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://www.tagmate.app"
+  },
+  {
+    "id": 457,
+    "name": "Azure App Service",
+    "description": "Fully managed PaaS for building, deploying, and scaling enterprise-grade web applications and APIs.",
+    "tags": ["paas", "cloud-hosting", "developer-tools"],
+    "category": "Developer Tools",
+    "pricing": "freemium",
+    "url": "https://azure.microsoft.com"
+  },
+  {
+    "id": 458,
+    "name": "Ginesys ERP",
+    "description": "Specialized retail ERP covering the entire value chain from inventory to POS and retail management.",
+    "tags": ["retail-erp", "inventory", "pos"],
+    "category": "ERP",
+    "pricing": "paid",
+    "url": "https://www.ginesys.in"
+  },
+  {
+    "id": 459,
+    "name": "Hopscotch Product Tours",
+    "description": "No-code platform for creating interactive product tours and in-app messages to improve trial conversions.",
+    "tags": ["onboarding", "product-tours", "engagement"],
+    "category": "Product Management",
+    "pricing": "paid",
+    "url": "https://www.gethopscotch.com"
+  },
+  {
+    "id": 460,
+    "name": "Amazon WorkSpaces Secure Browser",
+    "description": "Managed cloud service for secure access to internal websites and SaaS apps without data exfiltration.",
+    "tags": ["secure-browser", "cloud-security", "zero-trust"],
+    "category": "Cloud Security",
+    "pricing": "paid",
+    "url": "https://aws.amazon.com/workspaces/secure-browser/"
+  },
+  {
+    "id": 461,
+    "name": "F5 Distributed Cloud API Security",
+    "description": "ML-powered API discovery and threat mitigation solution for securing APIs across any data center.",
+    "tags": ["api-security", "cybersecurity", "ml"],
+    "category": "Cloud Security",
+    "pricing": "paid",
+    "url": "https://www.f5.com"
+  },
+  {
+    "id": 462,
+    "name": "CloudNine",
+    "description": "SaaS-based eDiscovery review and litigation data processing platform for legal teams.",
+    "tags": ["ediscovery", "legaltech", "data-processing"],
+    "category": "Legal",
+    "pricing": "paid",
+    "url": "https://cloudnine.com"
+  },
+  {
+    "id": 463,
+    "name": "Weblium",
+    "description": "Universal website builder with customizable templates and responsive design tools for marketers.",
+    "tags": ["website-builder", "cms", "marketing"],
+    "category": "Marketing",
+    "pricing": "freemium",
+    "url": "https://weblium.com"
+  },
+  {
+    "id": 464,
+    "name": "Tracker (TrackerRMS)",
+    "description": "Integrated cloud-based recruitment ATS and CRM solution designed for staffing and recruiting agencies.",
+    "tags": ["ats", "recruitment", "crm"],
+    "category": "Human Resources",
+    "pricing": "paid",
+    "url": "https://www.tracker-rms.com"
+  },
+  {
+    "id": 465,
+    "name": "Getron AI Services (GaiS)",
+    "description": "Predictive AI/ML platform for automated inventory planning and demand forecasting in retail.",
+    "tags": ["supply-chain", "ai", "inventory"],
+    "category": "Operations",
+    "pricing": "paid",
+    "url": "https://getron.com"
+  },
+  {
+    "id": 466,
+    "name": "Zoho Projects",
+    "description": "Cloud-based project management software for planning, executing, and tracking team tasks with Gantt charts.",
+    "tags": ["project-management", "collaboration", "gantt-charts"],
+    "category": "Project Management",
+    "pricing": "freemium",
+    "url": "https://www.zoho.com/projects"
+  },
+  {
+    "id": 467,
+    "name": "UnsubCentral",
+    "description": "Cloud-based suppression list management and email list scrubbing for CAN-SPAM compliance.",
+    "tags": ["email-marketing", "compliance", "data-security"],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://www.unsubcentral.com"
+  },
+  {
+    "id": 468,
+    "name": "Cameyo",
+    "description": "Cloud-native Virtual Application Delivery (VAD) platform for secure browser-based access to Windows apps.",
+    "tags": ["vad", "virtualization", "remote-work"],
+    "category": "IT Management",
+    "pricing": "paid",
+    "url": "https://cameyo.com"
+  },
+  {
+    "id": 469,
+    "name": "Agiliron",
+    "description": "Multi-channel SaaS solution integrating online sales with brick-and-mortar retail inventory and order management.",
+    "tags": ["ecommerce", "inventory-management", "retail"],
+    "category": "E-commerce",
+    "pricing": "paid",
+    "url": "https://www.agiliron.com"
+  },
+  {
+    "id": 470,
+    "name": "Cognition Compass MED",
+    "description": "SaaS solution for compliant medical device product development and regulatory workflow management.",
+    "tags": ["healthcare", "compliance", "product-development"],
+    "category": "Healthcare",
+    "pricing": "paid",
+    "url": "https://www.cognition.us/compass-med"
+  },
+  {
+    "id": 471,
+    "name": "ProdCamp",
+    "description": "User feedback and product management platform to help SaaS teams analyze customer insights.",
+    "tags": ["feedback-management", "product-roadmapping", "customer-centric"],
+    "category": "Product Management",
+    "pricing": "freemium",
+    "url": "https://www.prodcamp.com"
+  },
+  {
+    "id": 472,
+    "name": "Graviton",
+    "description": "SaaS-based loan origination and management system (LOS + LMS) for banks and fintech providers.",
+    "tags": ["fintech", "lending", "loan-management"],
+    "category": "Finance",
+    "pricing": "paid",
+    "url": "https://kugelblitz.ai"
+  },
+  {
+    "id": 473,
+    "name": "Amazon EventBridge",
+    "description": "Serverless event bus service that facilitates communication between AWS services and SaaS applications.",
+    "tags": ["aws", "event-driven", "serverless"],
+    "category": "Developer Tools",
+    "pricing": "paid",
+    "url": "https://aws.amazon.com/eventbridge"
+  },
+  {
+    "id": 474,
+    "name": "Deonde",
+    "description": "SaaS-based white-label delivery platform for food, grocery, and on-demand delivery startups.",
+    "tags": ["delivery-app", "logistics", "white-label"],
+    "category": "Operations",
+    "pricing": "paid",
+    "url": "https://www.deonde.co"
+  },
+  {
+    "id": 475,
+    "name": "cyberconIQ",
+    "description": "SaaS platform using behavioral science to provide cybersecurity awareness and risk training.",
+    "tags": ["cybersecurity", "training", "security-awareness"],
+    "category": "Cloud Security",
+    "pricing": "paid",
+    "url": "https://cyberconiq.com"
+  },
+  {
+    "id": 476,
+    "name": "Togai",
+    "description": "Pricing infrastructure and billing platform for SaaS companies to manage usage-based billing.",
+    "tags": ["billing", "saas-pricing", "fintech"],
+    "category": "Finance",
+    "pricing": "paid",
+    "url": "https://www.togai.com"
+  },
+  {
+    "id": 477,
+    "name": "FitBliss",
+    "description": "Salesforce-native AI wellness platform using employee data to provide productivity-driven health recommendations.",
+    "tags": ["wellness", "hr", "salesforce"],
+    "category": "Human Resources",
+    "pricing": "paid",
+    "url": "https://www.fitbliss.com"
+  },
+  {
+    "id": 478,
+    "name": "Rectify",
+    "description": "IT management and data sanitization software for managing secure file transfers and compliance.",
+    "tags": ["it-management", "security", "data-protection"],
+    "category": "IT Management",
+    "pricing": "paid",
+    "url": "https://rectifydata.com"
+  },
+  {
+    "id": 479,
+    "name": "TCat",
+    "description": "SaaS-based travel and expense management platform for small and mid-sized corporate programs.",
+    "tags": ["travel-management", "expense-tracking", "finance"],
+    "category": "Finance",
+    "pricing": "paid",
+    "url": "https://www.tcat.travel"
+  },
+  {
+    "id": 480,
+    "name": "OpenText SAST",
+    "description": "Static Application Security Testing solution that identifies vulnerabilities in source code during development.",
+    "tags": ["sast", "security-testing", "cybersecurity"],
+    "category": "Developer Tools",
+    "pricing": "paid",
+    "url": "https://www.microfocus.com/en-us/cyber-resilience/application-security"
+  },
+  {
+    "id": 481,
+    "name": "Place",
+    "description": "Revenue lifecycle management solution built on Salesforce for automated billing and financial forecasting.",
+    "tags": ["salesforce", "fintech", "revenue-management"],
+    "category": "Finance",
+    "pricing": "paid",
+    "url": "https://placetechnology.com"
+  },
+  {
+    "id": 482,
+    "name": "Artifi Labs",
+    "description": "SaaS-based visual product configurator that integrates with any eCommerce platform for 3D customization.",
+    "tags": ["visual-configurator", "ecommerce", "customization"],
+    "category": "E-commerce",
+    "pricing": "paid",
+    "url": "https://artifi.io"
+  },
+  {
+    "id": 483,
+    "name": "Medianova CDN",
+    "description": "Cloud platform providing CDN, streaming, and caching services for global website acceleration.",
+    "tags": ["cdn", "cloud-infrastructure", "streaming"],
+    "category": "Operations",
+    "pricing": "paid",
+    "url": "https://www.medianova.com"
+  },
+  {
+    "id": 484,
+    "name": "Relesys",
+    "description": "Employee engagement SaaS platform for internal communication and performance management in retail.",
+    "tags": ["hr", "internal-communication", "employee-engagement"],
+    "category": "Human Resources",
+    "pricing": "paid",
+    "url": "https://www.relesys.com"
+  },
+  {
+    "id": 485,
+    "name": "Templately",
+    "description": "Cloud-based SaaS product for managing and sharing pre-designed WordPress website templates.",
+    "tags": ["wordpress", "cms", "design-tools"],
+    "category": "Marketing",
+    "pricing": "freemium",
+    "url": "https://templately.com"
+  },
+  {
+    "id": 486,
+    "name": "SalesMonk",
+    "description": "AI agent platform for scaling cold outbound campaigns and automating de-anonymization of website visitors.",
+    "tags": ["ai-agents", "sales-automation", "marketing"],
+    "category": "Sales",
+    "pricing": "paid",
+    "url": "https://salesmonk.ai"
+  },
+  {
+    "id": 487,
+    "name": "Channelize.io",
+    "description": "Platform-as-a-Service (PaaS) enabling eCommerce stores to leverage live video shopping and real-time engagement.",
+    "tags": ["live-commerce", "ecommerce", "video-shopping"],
+    "category": "E-commerce",
+    "pricing": "paid",
+    "url": "https://channelize.io"
+  },
+  {
+    "id": 488,
+    "name": "Zinklar",
+    "description": "SaaS platform delivering real-time consumer insights and market research surveys for global brands.",
+    "tags": ["market-research", "consumer-insights", "surveys"],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://zinklar.com"
+  },
+  {
+    "id": 489,
+    "name": "Overly",
+    "description": "User-friendly, no-code SaaS platform for augmented reality (AR) creation and 3D visualization.",
+    "tags": ["ar", "augmented-reality", "no-code"],
+    "category": "Design Tools",
+    "pricing": "freemium",
+    "url": "https://overlyapp.com"
+  },
+  {
+    "id": 490,
+    "name": "BeatRoute",
+    "description": "Modular SaaS mobile app platform for intelligent field sales, visual merchandising, and delivery agents.",
+    "tags": ["field-sales", "merchandising", "crm"],
+    "category": "Sales",
+    "pricing": "paid",
+    "url": "https://beatroute.io"
+  },
+  {
+    "id": 491,
+    "name": "Omnyfy",
+    "description": "Multi-vendor Marketplace Platform as a Service (PaaS) to build B2B, B2C, or service-based marketplaces.",
+    "tags": ["marketplace", "ecommerce", "paas"],
+    "category": "E-commerce",
+    "pricing": "paid",
+    "url": "https://omnyfy.com"
+  },
+  {
+    "id": 492,
+    "name": "Distribion",
+    "description": "Cloud-based distributed marketing automation software to manage and measure multi-channel campaigns.",
+    "tags": ["marketing-automation", "campaigns", "distributed-marketing"],
+    "category": "Marketing",
+    "pricing": "paid",
+    "url": "https://www.distribion.com"
+  },
+  {
+    "id": 493,
+    "name": "Stackgini",
+    "description": "IT demand management platform automating compliance, enterprise architecture, and ITSM processes.",
+    "tags": ["it-management", "enterprise-architecture", "compliance"],
+    "category": "IT Management",
+    "pricing": "paid",
+    "url": "https://www.softwaregini.com"
+  },
+  {
+    "id": 494,
+    "name": "bundle.social",
+    "description": "Social media API infrastructure for developers building schedulers, dashboards, and publishing automation.",
+    "tags": ["social-media", "api", "automation"],
+    "category": "Developer Tools",
+    "pricing": "paid",
+    "url": "https://bundle.social"
+  },
+  {
+    "id": 495,
+    "name": "SaleADS.ai",
+    "description": "AI-powered advertising creation platform for small businesses to run optimized Meta, Google, and TikTok ads.",
+    "tags": ["ai", "advertising", "marketing"],
+    "category": "Marketing",
+    "pricing": "freemium",
+    "url": "https://saleads.ai"
+  },
+  {
+    "id": 496,
+    "name": "SysGenPro",
+    "description": "Fully customizable, white-label SaaS ERP platform built for IT service providers and software resellers.",
+    "tags": ["erp", "white-label", "saas"],
+    "category": "ERP",
+    "pricing": "paid",
+    "url": "https://sysgenpro.com"
+  },
+  {
+    "id": 497,
+    "name": "iMerit Ango Hub",
+    "description": "Multimodal AI data labeling and machine learning platform for generative AI model fine-tuning.",
+    "tags": ["ai", "data-labeling", "machine-learning"],
+    "category": "AI",
+    "pricing": "paid",
+    "url": "https://imerit.net"
+  },
+  {
+    "id": 498,
+    "name": "SAASTEPS",
+    "description": "Salesforce-native revenue lifecycle management platform for CPQ, eCommerce, quoting, and subscription billing.",
+    "tags": ["cpq", "salesforce", "billing"],
+    "category": "Finance",
+    "pricing": "paid",
+    "url": "https://saasteps.com"
+  },
+  {
+    "id": 499,
+    "name": "Pulse",
+    "description": "AI-native feedback intelligence platform that unifies customer sentiment from tickets, calls, and reviews into actionable data.",
+    "tags": ["feedback-analytics", "ai", "customer-experience"],
+    "category": "Data Analytics",
+    "pricing": "paid",
+    "url": "https://pulse.io"
+  },
+  {
+    "id": 500,
+    "name": "MerusCase",
+    "description": "Cloud-based legal practice management platform offering integrated groupware, billing, and document management for law firms.",
+    "tags": ["legaltech", "case-management", "compliance"],
+    "category": "Legal",
+    "pricing": "paid",
+    "url": "https://meruscase.com"
+  },
+  {
+    "id": 501,
+    "name": "Liferay Experience Cloud",
+    "description": "Comprehensive PaaS solution for deploying and managing digital experience platforms (DXP) with built-in autoscaling and disaster recovery.",
+    "tags": ["dxp", "paas", "cloud-management"],
+    "category": "Developer Tools",
+    "pricing": "paid",
+    "url": "https://www.liferay.com/products/experience-cloud"
+  },
+  {
+    "id": 502,
+    "name": "Intelo.ai",
+    "description": "AI-driven platform for B2B SaaS companies to maximize revenue by monitoring product value and customer churn risks.",
+    "tags": ["nrr", "ai", "customer-success"],
+    "category": "Sales",
+    "pricing": "paid",
+    "url": "https://intelo.ai"
+  },
+  {
+    "id": 503,
+    "name": "Bocada Cloud",
+    "description": "SaaS-based backup monitoring platform that provides API-driven reporting and automation across multi-cloud backup products.",
+    "tags": ["backup-monitoring", "data-protection", "cloud-security"],
+    "category": "Cloud Security",
+    "pricing": "freemium",
+    "url": "https://bocada.com/bocada-cloud"
+  },
+  {
+    "id": 504,
+    "name": "Mandaala",
+    "description": "All-in-one corporate gifting and printing SaaS platform that automates engagement programs and onboarding kits.",
+    "tags": ["corporate-gifting", "employee-engagement", "logistics"],
+    "category": "Operations",
+    "pricing": "paid",
+    "url": "https://mandaala.com"
   }
 ]
