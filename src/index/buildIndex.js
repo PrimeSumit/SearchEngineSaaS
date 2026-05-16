@@ -10,11 +10,13 @@ tools.forEach((tool) => {
 
   tokens.forEach((token) => {
     if (!invertedIndex[token]) {
-      invertedIndex[token] = [];
+      invertedIndex[token] = {};
     }
-    if (invertedIndex[token].includes(tool.id)) {
+    if (!invertedIndex[token][tool.id]) {
+      invertedIndex[token][tool.id] = 1;
     } else {
-      invertedIndex[token].push(tool.id);
+      invertedIndex[token][tool.id]++;
     }
   });
 });
+console.log(invertedIndex["video"]);
