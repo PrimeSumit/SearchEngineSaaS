@@ -9,4 +9,3 @@ Object.keys(documentFrequency).forEach((token) => {
   const result = Math.log(n / DF);
   idf[token] = result;
 });
-console.log(idf["freemium"]);
