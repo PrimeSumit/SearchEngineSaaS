@@ -18,4 +18,5 @@ tokens.forEach((token) => {
     }
   });
 });
-console.log(search);
+const result = Object.entries(search).sort((a, b) => b[1] - a[0]);
+console.log(result);
