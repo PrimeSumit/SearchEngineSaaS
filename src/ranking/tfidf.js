@@ -18,5 +18,5 @@ tokens.forEach((token) => {
     }
   });
 });
-const result = Object.entries(search).sort((a, b) => b[1] - a[0]);
+const result = Object.entries(search).sort((a, b) => b[1] - a[1]);
 console.log(result);
