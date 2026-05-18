@@ -19,4 +19,4 @@ tools.forEach((tool) => {
     }
   });
 });
-console.log(invertedIndex["video"]);
+
