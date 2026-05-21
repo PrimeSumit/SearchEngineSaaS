@@ -8,16 +8,19 @@ const tokens = tokenize(query);
 const search = {};
 export default search;
 tokens.forEach((token) => {
-  Object.entries(invertedIndex[token]).forEach((entry) => {
-    const toolId = entry[0];
-    const tf = entry[1];
-    const score = tf * idf[token];
-    if (!search[toolId]) {
-      search[toolId] = score;
-    } else {
-      search[toolId] += score;
-    }
-  });
+  if (!invertedIndex[token]) {
+  } else {
+    Object.entries(invertedIndex[token]).forEach((entry) => {
+      const toolId = entry[0];
+      const tf = entry[1];
+      const score = tf * idf[token];
+      if (!search[toolId]) {
+        search[toolId] = score;
+      } else {
+        search[toolId] += score;
+      }
+    });
+  }
 });
 const result = Object.entries(search).sort((a, b) => b[1] - a[1]);
 result.forEach((entry) => {
