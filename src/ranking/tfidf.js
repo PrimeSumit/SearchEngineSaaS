@@ -20,4 +20,9 @@ tokens.forEach((token) => {
   });
 });
 const result = Object.entries(search).sort((a, b) => b[1] - a[1]);
-console.log(result);
+result.forEach((entry) => {
+  const toolId = entry[0];
+  const score = entry[1];
+  const res = tools.find((tool) => tool.id == toolId);
+  console.log(res);
+});
