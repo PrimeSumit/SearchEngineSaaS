@@ -26,8 +26,8 @@ export default function search(query) {
   const result = Object.entries(scores).sort((a, b) => b[1] - a[1]);
   result.forEach((entry) => {
     const toolId = entry[0];
-
-    const res = tools.find((tool) => tool.id == toolId);
+    const score = entry[1];
+    const res = { tool: tools.find((tool) => tool.id == toolId), score: score };
     finalres.push(res);
   });
   return finalres;
