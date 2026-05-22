@@ -1,31 +1,6 @@
-import tokenize from "../processing/tokenizer.js";
-import invertedIndex from "../index/buildIndex.js";
 import idf from "../index/idf.js";
 import tools from "../../data/tools_clean.json" with { type: "json" };
 
-const query = "video meetings";
-const tokens = tokenize(query);
-const search = {};
-export default search;
-tokens.forEach((token) => {
-  if (!invertedIndex[token]) {
-  } else {
-    Object.entries(invertedIndex[token]).forEach((entry) => {
-      const toolId = entry[0];
-      const tf = entry[1];
-      const score = tf * idf[token];
-      if (!search[toolId]) {
-        search[toolId] = score;
-      } else {
-        search[toolId] += score;
-      }
-    });
-  }
-});
-const result = Object.entries(search).sort((a, b) => b[1] - a[1]);
-result.forEach((entry) => {
-  const toolId = entry[0];
-  const score = entry[1];
-  const res = tools.find((tool) => tool.id == toolId);
-  console.log(res);
-});
+export default function tfidf(tf, token) {
+  return tf * idf[token];
+}
