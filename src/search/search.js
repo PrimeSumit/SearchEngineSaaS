@@ -23,7 +23,9 @@ export default function search(query) {
     });
   });
   let finalres = [];
-  const result = Object.entries(scores).sort((a, b) => b[1] - a[1]);
+  const result = Object.entries(scores)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 10);
   result.forEach((entry) => {
     const toolId = entry[0];
     const score = entry[1];
@@ -32,3 +34,4 @@ export default function search(query) {
   });
   return finalres;
 }
+console.log(search("video meetings"));
