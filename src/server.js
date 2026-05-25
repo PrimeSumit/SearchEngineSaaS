@@ -1,6 +1,8 @@
-import express from "express"
-import tokenize from "./processing/tokenizer"
-const app=express()
-app.get("/",(req,res)=>{
-    const token=tokenize("Notion is a poductivity tool")
-})
+import express from "express";
+const port = 3000;
+const app = express();
+
+app.use(express.json());
+app.listen(port, () => {
+  console.log(`Server running at http://localhost:${port}`);
+});
