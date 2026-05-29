@@ -34,4 +34,4 @@ export default function search(query) {
   });
   return finalres;
 }
-console.log(search("video meetings"));
+
